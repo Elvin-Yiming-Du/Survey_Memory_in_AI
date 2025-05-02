@@ -317,8 +317,7 @@ If you find our repository and survey useful for your research, please consider 
 ## ⚙️ Tools
 
 ### Components Level
-
-#### Table-1: Component-Level Tools for Memory Management and Utilization. *(Continuously Updated)*
+<p align="center"><strong>Table-1: Component-Level Tools for Memory Management and Utilization. *(Continuously Updated)*</strong></p>
 
 | **Memory Tool** | **Function** | **Input/Output** | **Example Use** |
 |-----------------|--------------|------------------|------------------|
@@ -334,7 +333,7 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Framework Level
 
-#### Table-2: Framework-Level Tools for Memory Management and Utilization *(Continuously Updated)*
+<p align="center"><strong>Table-2: Framework-Level Tools for Memory Management and Utilization *(Continuously Updated)*</strong></p>
 
 | **Memory Tool** | **Function** | **Input/Output** | **Example Use** | **Source Type** |
 |-----------------|--------------|------------------|------------------|-----------------|
@@ -348,7 +347,7 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Application-Layer Level
 
-<p align="center"><strong>Table: Application Layer-Level Tools for Memory Management and Utilization (Continuously Updated)</strong></p>
+<p align="center"><strong>Table-3: Application Layer-Level Tools for Memory Management and Utilization (Continuously Updated)</strong></p>
 
 | **Memory Tool** | **Function** | **Input/Output** | **Example Use** | **Source Type** |
 |-----------------|--------------|------------------|------------------|-----------------|
@@ -359,7 +358,7 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Product Level
 
-<p align="center"><strong>Table: Product-Level Tools for Memory Utilization (Continuously Updated)</strong></p>
+<p align="center"><strong>Table-4: Product-Level Tools for Memory Utilization (Continuously Updated)</strong></p>
 
 | **Memory Tool** | **Function** | **Input/Output** | **Example Use** | **Source Type** |
 |-----------------|--------------|------------------|------------------|-----------------|
