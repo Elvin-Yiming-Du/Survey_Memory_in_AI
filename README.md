@@ -310,8 +310,9 @@ If you find our repository and survey useful for your research, please consider 
 
 ## 📊 Datasets
 
-<p align="center"><strong>Table: Datasets for Evaluating Long-Term Memory *(Continuously Updated)</strong></p>
-### *
+### Evaluation for Long Term Memroy.
+
+<p align="center"><strong>Table-1: Datasets for Evaluating Long-Term Memory *(Continuously Updated)</strong></p>
 
 | **Dataset** | **Mo** | **Operations** | **DS Type** | **Per** | **TR** | **Metrics** | **Purpose** | **Year** |
 |-------------|--------|----------------|-------------|---------|--------|-------------|-------------|----------|
@@ -339,6 +340,95 @@ If you find our repository and survey useful for your research, please consider 
   - **MS** = Multi-Session Dialogue  
 - **Per**: Persona present (✓ = Yes, ✗ = No).  
 - **TR**: Temporal reasoning required or present (✓ = Yes, ✗ = No).
+
+### Evaluation for Long Context Memory
+
+<p align="center"><strong>Table-2: Datasets for Long-Context Memory Evaluation *(Continuously Updated)*</strong></p>
+
+| **Dataset** | **Modality** | **Operations** | **Metrics** | **Purpose** | **Year** |
+|-------------|--------------|----------------|-------------|-------------|----------|
+| [**WikiText-103**](https://huggingface.co/datasets/Salesforce/wikitext) | text | compression | PPL | 100M-token Wikipedia corpus for long-context language modeling | 2016 |
+| [**PG-19**](https://github.com/google-deepmind/pg19) | text | compression | PPL | Project Gutenberg books corpus for long-context language modeling | 2019 |
+| [**LRA**](https://github.com/google-research/long-range-arena) | text + image | compression, retrieval | Acc | Benchmark with 6 tasks for evaluating efficient long-context language models | 2020 |
+| [**NarrativeQA**](https://github.com/google-deepmind/narrativeqa) | text | retrieval | Bleu-1, Bleu-4, Meteor, Rouge-L, MRR | QA dataset for evaluating long-context QA ability | 2017 |
+| [**TriviaQA**](https://nlp.cs.washington.edu/triviaqa/) | text | retrieval | EM, F1 | QA dataset for evaluating long-context QA ability | 2017 |
+| [**NaturalQuestions**](https://github.com/google-research-datasets/natural-questions) | text | retrieval | EM, F1 | QA dataset for evaluating long-context QA ability | 2019 |
+| [**MusiQue**](https://github.com/StonyBrookNLP/musique) | text | retrieval | F1 | Multi-hop QA dataset for evaluating long-context reasoning and QA | 2021 |
+| [**CNN/DailyMail**](https://github.com/abisee/cnn-dailymail) | text | compression | Rouge-1, Rouge-2, Rouge-L | News articles dataset for long document summarization | 2016 |
+| [**GovReport**](https://gov-report-data.github.io/) | text | compression | Rouge-1, Rouge-2, Rouge-L, Bert Score | Government agency reports for long document summarization | 2021 |
+| [**L-Eval**](https://github.com/OpenLMLab/LEval) | text | compression, retrieval | Rouge-L, F1, GPT4 | 20-subtask benchmark for diverse long-context language model evaluation | 2023 |
+| [**LongBench**](https://github.com/THUDM/LongBench/tree/main/LongBench) | text | compression, retrieval | F1, Rouge-L, Accuracy, EM, Edit Sim | 14 English, 5 Chinese, 2 code tasks for long-context evaluation | 2023 |
+| [**LongBench v2**](https://github.com/THUDM/LongBench/) | text + table + KG | compression, retrieval | Acc | Longer, more challenging tasks with consistent multi-choice format | 2024 |
+
+
+
+### Paramatric Memory Modification
+
+<p align="center"><strong>Table-3: Datasets for Parametric Memory Evaluation *(Continuously Updated)*</strong></p>
+
+
+| **Dataset** | **Modality** | **Operations** | **Metrics** | **Purpose** | **Year** |
+|-------------|--------------|----------------|-------------|-------------|----------|
+| [**KnowEdit**](https://huggingface.co/datasets/zjunlp/KnowEdit) | text | updating | Edit Success, Portability, Locality, Fluency | 6 datasets covering insertion, modification, and erasure | 2024 |
+| [**MQUAKE-CF**](https://github.com/princeton-nlp/MQuAKE/tree/main/datasets) | text | updating | Edit-wise Success Rate, Instance-wise Accuracy, Multi-hop Accuracy | Counterfactual knowledge editing through multi-hop reasoning (up to 4 hops) | 2023 |
+| [**MQUAKE-T**](https://github.com/princeton-nlp/MQuAKE/tree/main/datasets) | text | updating | Edit-wise Success Rate, Instance-wise Accuracy, Multi-hop Accuracy | Temporal knowledge editing with one edit per reasoning chain | 2023 |
+| [**Counterfact**](https://rome.baulab.info/data/dsets/counterfact.json) | text | updating | Efficacy Score, Magnitude, Paraphrase & Neighborhood Scores | Tests substantial factual changes beyond superficial edits | 2022 |
+| [**zsRE**](https://mega.nz/folder/p9JC3bwC#vzcrsh9b-pnWPaWdlcBVUA) | text | updating | Success Rate, Retain Accuracy, Equivalence Accuracy, Perf. Deterioration | One of the earliest datasets for knowledge editing | 2021 |
+| [**MUSE**](https://muse-bench.github.io/) | text | forgetting | VerbMem, KnowMem, PrivLeak | Unlearning benchmark with 6 desirable properties | 2024 |
+| [**KnowUnDo**](https://github.com/zjunlp/KnowUnDo) | text | forgetting | Unlearn Success, Retention Success, Perplexity, ROUGE-L | Test unlearning in copyrighted and privacy-sensitive domains | 2024 |
+| [**RWKU**](https://rwku-bench.github.io/) | text | forgetting | ROUGE-L | Real-world unlearning under corpus-free, adversarial settings | 2024 |
+| [**WMDP**](https://www.wmdp.ai/) | text | forgetting | QA accuracy | Proxy for hazardous knowledge in bio/cyber/chemical domains | 2024 |
+| [**TOFU**](https://locuslab.github.io/tofu/) | text | forgetting | Probability, ROUGE, Truth Ratio | Unlearning dataset of facts about 200 fictitious authors | 2024 |
+| [**ABSA**](https://github.com/yangheng95/ABSADatasets) | text | consolidation | F1 | Aspect-based sentiment analysis for continual learning | 2024 |
+| [**SGD**](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) | text | consolidation | JGA, FWT, BWT | Multi-turn task-oriented dialogue with evolving intents | 2020 |
+| [**INSPIRED**](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) | text | consolidation | JGA, FWT, BWT | Task-oriented dialogue supporting user goal evolution | 2020 |
+| [**Natural Question**](https://ai.google.com/research/NaturalQuestions) | text | consolidation | Indexing Accuracy, Hits@1 | Supports continual learning over evolving document corpora | 2019 |
+
+---
+
+**Note:**  
+- This table covers datasets for evaluating **parametric memory** in LLMs.  
+- **Operations**:  
+  - *updating* – assessing model behavior after direct memory modification  
+  - *forgetting* – evaluating unlearning/removal of specific knowledge  
+  - *consolidation* – integrating new knowledge without harming prior capabilities  
+- **Metrics** include fluency, factuality, locality, transfer, edit effectiveness, and forgetting accuracy.
+
+### Evaluation for Multi-Source Memory
+
+<p align="center"><strong>Table-4: Datasets for Multi-Source Memory Evaluation *(Continuously Updated)*</strong></p>
+
+
+| **Dataset** | **Mo** | **Ops** | **Src#** | **Mod#** | **Task** | **Metrics** | **Purpose** | **Year** |
+|-------------|--------|---------|----------|----------|----------|-------------|-------------|----------|
+| [**MultiChat**](https://github.com/Vincy2King/IGSR) | text + image | Retrieval | 2 | 2 | Retrieval | Precision, mAP, GPT-4 | Image-grounded sticker retrieval with cross-session image-text dialogue context. | 2025 |
+| [**Context-conflicting**](https://github.com/Tan-Hexiang/RetrieveOrGenerated) | text | Compression | 2 | 1 | Conflict | DiffGR, EM, Similarity | Evaluates model handling of conflicting evidence across sources. | 2024 |
+| [**EgoSchema**](https://egoschema.github.io) | video + text | Retrieval, Compression | 3 | 2 | Fusion | Accuracy | Episodic video + social schema + conversation for long-term memory QA. | 2023 |
+| [**Ego4D NLQ**](https://ego4d-data.org) | video + text | Retrieval, Compression | 2 | 2 | Fusion | Recall@K | Natural language queries over egocentric video with temporal memory. | 2022 |
+| [**2WikiMultihopQA**](https://github.com/Alab-NII/2wikimultihop) | text | Indexing, Retrieval, Compression | 2 | 1 | Reasoning | EM, F1 | Multi-hop QA across Wikipedia passages with sentence-level support. | 2020 |
+| [**HybridQA**](https://hybridqa.github.io/) | text | Retrieval, Compression | 2 | 1 | Reasoning | EM, F1 | Reasoning across structured tables and unstructured text. | 2020 |
+| [**CommonsenseVQA**](https://huggingface.co/datasets/tau/commonsense_qa) | text + image | Retrieval, Compression | 2 | 2 | Fusion | Accuracy | Commonsense QA over visual scenes requiring visual-textual fusion. | 2019 |
+| [**NaturalQuestions**](https://ai.google.com/research/NaturalQuestions) | text | Retrieval, Compression | >1* | 1 | Conflict | EM, F1 | QA over Google snippets; used for contradiction analysis. | 2019 |
+| [**ComplexWebQuestions**](https://huggingface.co/datasets/drt/complex_web_questions) | text | Retrieval, Compression | >1* | 1 | Reasoning | EM, F1 | Compositional QA requiring multi-step reasoning over web snippets. | 2018 |
+| [**HotpotQA**](https://hotpotqa.github.io/) | text | Retrieval, Compression | 2 | 1 | Conflict | EM, F1, Supporting Fact Accuracy | Multi-hop QA with paragraph- and sentence-level support. | 2018 |
+| [**TriviaQA**](http://nlp.cs.washington.edu/triviaqa/) | text | Retrieval, Compression | ≥6 | 1 | Conflict | EM, F1 | QA with noisy web sources; useful for source disagreement analysis. | 2017 |
+| [**WebQuestionsSP**](https://aka.ms/WebQuestionsSP) | text | Indexing, Retrieval, Compression | >1* | 1 | Reasoning | F1, Accuracy | Structured QA dataset with enhanced reasoning chains. | 2016 |
+| [**Flickr30K**](https://shannon.cs.illinois.edu/DenotationGraph/) | text + image | Retrieval, Compression | 2 | 2 | Retrieval | Similarity | Image-caption pairs for cross-modal retrieval and alignment. | 2014 |
+
+---
+
+**Note:**  
+- **Mo**: Modality (e.g., text, image, video).  
+- **Ops**: Operations (e.g., Retrieval, Compression, Indexing).  
+- **Src#**: Number of sources per instance.  
+- **Mod#**: Number of modalities involved.  
+- **Task**:  
+  - *Retrieval*: retrieving relevant knowledge  
+  - *Fusion*: integrating multiple modalities  
+  - *Reasoning*: multi-hop or logic-based inference  
+  - *Conflict*: handling conflicting sources
+
+
 
 ## 🧠 Methods
 - Overview and comparison of methods used in AI memory research.
