@@ -69,7 +69,7 @@ If you find our repository and survey useful for your research, please consider 
 ## 📜 Papers
 
 ### 1. Survey Papers
-- 
+
 1. [**A Survey on the Memory Mechanism of Large Language Model based Agents.**](https://arxiv.org/abs/2404.13501) _Zhang, Zeyu and Bo, Xiaohe and Ma, Chen and Li, Rui and Chen, Xu and Dai, Quanyu and Zhu, Jieming and Dong, Zhenhua and Wen, Ji-Rong._ Arxiv 2024.
 
 2.[**Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey**](https://arxiv.org/abs/2311.12351) _Yunpeng Huang, Jingwei Xu, Junyu Lai, Zixu Jiang, Taolue Chen, Zenan Li, Yuan Yao, Xiaoxing Ma, Lijuan Yang, Hao Chen, Shupeng Li, Penghao Zhao._ Arxiv 2024.
@@ -91,7 +91,7 @@ If you find our repository and survey useful for your research, please consider 
 ### 2. Memory Topics
 
 #### 2.1 Long Term Memory
-- 
+
 1.[**Evaluating Very Long-Term Conversational Memory of LLM Agents**](https://arxiv.org/abs/2402.17753)_Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang_ Arxiv 2024.
 
 2.[**MemoryBank: Enhancing Large Language Models with Long-Term Memory**](https://arxiv.org/abs/2305.10250)_Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang_ Arxiv 2024.
@@ -163,7 +163,7 @@ If you find our repository and survey useful for your research, please consider 
 35.[**Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control**](https://arxiv.org/abs/2306.07863) _Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An_ Arxiv 2024.
 
 #### 2.2 Long Context Memory
-- 
+
 1.[**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**](https://arxiv.org/abs/1503.00075) _Kai Sheng Tai, Richard Socher, Christopher D. Manning._ Arxiv 2015.
 
 2.[**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading**](https://arxiv.org/abs/2310.05029) _Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz._ Arxiv 2023.
@@ -218,7 +218,7 @@ If you find our repository and survey useful for your research, please consider 
 
 
 #### 2.3 Parametric Memory
-- 
+
 1.[**Mass-Editing Memory in a Transformer**](https://arxiv.org/abs/2210.07229) _Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau._ Arxiv 2022.
 
 2.[**Memory-Based Model Editing at Scale**](https://arxiv.org/abs/2206.06520) _Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn._ Arxiv 2022.
