@@ -1,4 +1,4 @@
-# Survey_Memory_in_AI
+# Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions
 
 <div align="center">
  <p align="center">
@@ -10,7 +10,7 @@
 <div align="center">
 
 
-[![LICENSE](https://img.shields.io/github/license/Elvin-Yiming-Du/Survey_Memory_in_AI/commits/main)](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/Elvin-Yiming-Du/Survey_Memory_in_AI)](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI/blob/main/LICENSE)
 <!-- ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) -->
 [![commit](https://img.shields.io/github/last-commit/Elvin-Yiming-Du/Survey_Memory_in_AI?color=blue)](https://github.com/Elvin-Yiming-Du/Survey_Memory_in_AI/commits/main)
 [![PR](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/Xnhyacinth/Long_Text_Modeling_Papers/pulls)
