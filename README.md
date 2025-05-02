@@ -168,9 +168,38 @@ If you find our repository and survey useful for your research, please consider 
 - Concepts, implementations, and advantages of parametric memory.
 
 #### 2.4 Multi-source Memory
-- Integration methods, application scenarios, and future directions of multi-source memory.
 
+1.[**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**](https://arxiv.org/abs/2306.03901) _Chenxu Hu, Jie Yu, Chencheng Dong, Junbo Zhao, Hang Zhao._ Arxiv 2023.
 
+2.[**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**](https://arxiv.org/abs/2410.08143) _Yutong Wang, Jiali Zeng, Xuebo Liu, Derek F. Wong, Fandong Meng, Jie Zhou, Min Zhang._ Arxiv 2024.
+
+3.[**An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks**](https://arxiv.org/abs/2210.16773) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2022.
+
+4.[**Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models**](https://arxiv.org/abs/2310.15127) _Gabriel Sarch, Yuxiang Wu, Yuqi Xie, Yunfan Jiang, Linxi Fan, Ajay M. Patel, Yuke Zhu, Anima Anandkumar._ Arxiv 2023.
+
+5.[**Symbolic Working Memory Enhances Language Models for Complex Rule Application**](https://arxiv.org/abs/2408.13654) _Yuxiang Wang, Jingwei Wei, Yicheng Wang, Zheng Zhang, Yuan-Fang Li._ Arxiv 2024.
+
+6.[**There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory**](https://arxiv.org/abs/2204.02624) _Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan._ Arxiv 2022.
+
+7.[**Prior Knowledge and Memory Enriched Transformer for Sign Language Translation**](https://aclanthology.org/2022.findings-acl.297/) _Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng._ Arxiv 2022.
+
+8.[**G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks**](https://arxiv.org/abs/2212.03613) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2022.
+
+9.[**Memory Augmented Language Models through Mixture of Word Experts**](https://arxiv.org/abs/2311.10768) _Cicero Nogueira dos Santos, James Lee-Thorp, Isaac Noble, Chung-Ching Chang, David Uthus._ Arxiv 2023.
+
+10.[**A Cooperative Memory Network for Personalized Task-oriented Dialogue Systems with Incomplete User Profiles**](https://arxiv.org/abs/2102.08322) _Jiahuan Pei, Pengjie Ren, Maarten de Rijke._ Arxiv 2021.
+
+11.[**Memory-aligned Knowledge Graph for Clinically Accurate Radiology Image Report Generation**](https://aclanthology.org/2022.bionlp-1.11/) _Sixing Yan._ Arxiv 2022.
+
+12.[**MATTER: Memory-Augmented Transformer Using Heterogeneous Knowledge Sources**](https://arxiv.org/abs/2406.04670) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2024.
+
+13.[**A Framework for Inference Inspired by Human Memory Mechanisms**](https://arxiv.org/abs/2310.09297) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2023.
+
+14.[**M3: 3D-Spatial MultiModal Memory**](https://arxiv.org/abs/2503.16413) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2025.
+
+15.[**Learning Multimodal Contrast with Cross-modal Memory and Reinforced Contrast Recognition**](https://arxiv.org/abs/2404.00925) _Yuanhe Tian, Fei Xia, Yan Song._ Arxiv 2024.
+
+16.[**Stable Hadamard Memory: Revitalizing Memory-Augmented Agents for Reinforcement Learning**](https://arxiv.org/abs/2401.08523) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2024.
 
 ## 📊 Datasets
 - Introduction, usage, and access methods of related datasets.
