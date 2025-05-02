@@ -318,20 +318,56 @@ If you find our repository and survey useful for your research, please consider 
 
 ### Components Level
 
-### Framework Level
-
-### Application-Layer Level
-
-### Product Level
-#### Table: Component-Level Tools for Memory Management and Utilization.
+#### Table-1: Component-Level Tools for Memory Management and Utilization. *(Continuously Updated)*
 
 | **Memory Tool** | **Function** | **Input/Output** | **Example Use** |
 |-----------------|--------------|------------------|------------------|
-| [**FAISS**](https://github.com/facebookresearch/faiss) | Library for fast storage, indexing, and retrieval of high-dimensional vectors | vector / index, relevance score | Vector Database — Index a large set of text embeddings and retrieve relevant documents in RAG systems |
-| [**Neo4j**](https://neo4j.com/?utm_source=chatgpt.com) | Native graph database supporting ACID transactions and Cypher query language | Nodes and relationships with properties / query results via Cypher | Graph Database — Model and retrieve complex relational data (e.g., fraud detection, recommendation) |
-| [**BM25**](https://pypi.org/project/rank-bm25/) | Probabilistic ranking function for estimating document relevance | Text queries / ranked list of documents | Improve search engine results and document retrieval |
-| [**Contriever**](https://github.com/facebookresearch/contriever) | Unsupervised dense retriever trained with contrastive learning | Query text / list of similar documents | Multilingual QA systems with high-recall retrieval |
-| [**Embedding Models (e.g., OpenAI)**](https://huggingface.co/spaces/mteb/leaderboard) | Convert text, images, or audio into dense vector representations capturing semantic meaning | Raw data / vector embeddings | Text similarity, recommendation, clustering |
+| [**FAISS**](https://github.com/facebookresearch/faiss) | Library for fast storage, indexing, and retrieval of high-dimensional vectors | Vector / Index, relevance score | Indexing large sets of text embeddings and retrieving relevant documents in RAG systems | Open Source |
+| [**Neo4j**](https://neo4j.com/?utm_source=chatgpt.com) | Native graph database supporting ACID transactions and Cypher query language | Nodes and relationships with properties / Query results via Cypher | Modeling and retrieving complex relational data for use cases like fraud detection and recommendation engines | Conditional Open Source |
+| [**Chroma**](https://github.com/chroma-core/chroma) | AI-native embedding database for building LLM applications | Text / Embeddings | Managing knowledge, facts, and skills for LLMs | Open Source |
+| [**Milvus**](https://github.com/milvus-io/milvus) | Vector database for embedding similarity search and AI applications | Embeddings / Similar items | Unstructured data search and similarity matching | Open Source |
+| [**Qdrant**](https://github.com/qdrant/qdrant) | Vector similarity search engine and database | Embeddings / Similar items | Production-ready service with user-friendly API for vector search | Open Source |
+| [**Weaviate**](https://github.com/semi-technologies/weaviate) | Open-source vector database with built-in ML models | Data objects and vector embeddings / Search results | Scalable storage and retrieval for AI applications | Open Source |
+| [**BM25**](https://pypi.org/project/rank-bm25/) | Probabilistic ranking function for estimating document relevance | Text queries / Ranked list of documents | Enhancing search engine results and document retrieval systems | Open Source |
+| [**Contriever**](https://github.com/facebookresearch/contriever) | Unsupervised dense retriever trained with contrastive learning | Query text / List of similar documents | High-recall retrieval tasks in multilingual question-answering systems | Open Source |
+| [**Embedding Models (e.g., OpenAI)**](https://huggingface.co/spaces/mteb/leaderboard) | Convert text, images, or audio into dense vector representations capturing semantic meaning | Raw data / Vector embeddings | Text similarity computation, recommendation systems, and clustering tasks | Open Source |
+
+### Framework Level
+
+#### Table-2: Framework-Level Tools for Memory Management and Utilization *(Continuously Updated)*
+
+| **Memory Tool** | **Function** | **Input/Output** | **Example Use** | **Source Type** |
+|-----------------|--------------|------------------|------------------|-----------------|
+| [**Graphiti**](https://github.com/getzep/graphiti) | Framework for building and querying temporally-aware knowledge graphs tailored for AI agents in dynamic environments | Multi-source data / Queryable knowledge graph | Constructing real-time knowledge graphs to enhance AI agent memory | Open |
+| [**LlamaIndex**](https://www.llamaindex.ai/) | A flexible framework for building knowledge assistants using LLMs connected to enterprise data | Text / Context-augmented responses | Developing knowledge assistants that process complex data formats | Open |
+| [**LangChain**](https://www.langchain.com/) | Provides a framework for building context-aware, reasoning applications by connecting LLMs with external data sources | Input prompts / Multi-step reasoning outputs | Creating complex LLM applications like question-answering systems and chatbots | Open |
+| [**LangGraph**](https://github.com/langchain-ai/langgraph) | Constructs controllable agent architectures supporting long-term memory and human-in-the-loop multi-agent systems | Graph state / State updates | Building complex task workflows with multiple AI agents | Open |
+| [**EasyEdit**](https://github.com/zjunlp/EasyEdit) | An easy-to-use knowledge editing framework for LLMs, enabling efficient behavior modification within specific domains | Edit instructions / Updated model behavior | Modifying LLM knowledge in specific domains, such as updating factual information | Open |
+| [**CrewAI**](https://www.crewai.com/) | A platform for building and deploying multi-agent systems, supporting automated workflows using any LLM and cloud platform | Multi-agent tasks / Collaborative results | Automating workflows across agents like project management and content generation | Open |
+| [**Letta**](https://www.letta.com/) | Constructs stateful agents with long-term memory, advanced reasoning, and custom tools within a visual environment | User interactions / Improved response | Developing AI agents that learn and improve over time | Open |
+
+### Application-Layer Level
+
+<p align="center"><strong>Table: Application Layer-Level Tools for Memory Management and Utilization (Continuously Updated)</strong></p>
+
+| **Memory Tool** | **Function** | **Input/Output** | **Example Use** | **Source Type** |
+|-----------------|--------------|------------------|------------------|-----------------|
+| [**Mem0**](https://mem0.ai/) | Provides a smart memory layer for LLMs, enabling direct addition, updating, and searching of memories in models | User interactions / Personalized responses | Enhancing AI systems with persistent context for customer support and personalized recommendations | Open |
+| [**Zep**](https://www.getzep.com/) | Integrates chat messages into a knowledge graph, offering accurate and relevant user information | Chat logs, business data / Knowledge graph query results | Augmenting AI agents with knowledge through continuous learning from user interactions | Open |
+| [**Memary**](https://github.com/kingjulio8238/Memary) | An open memory layer that emulates human memory to help AI agents manage and utilize information effectively | Agent tasks / Memory management and utilization | Building AI agents with human-like memory characteristics | Open |
+| [**Memobase**](https://www.memobase.io/) | A user profile-based long-term memory system designed to provide personalized experiences in generative AI applications | User interactions / Personalized responses | Implementing virtual assistants, educational tools, and personalized AI companions | Open |
+
+### Product Level
+
+<p align="center"><strong>Table: Product-Level Tools for Memory Utilization (Continuously Updated)</strong></p>
+
+| **Memory Tool** | **Function** | **Input/Output** | **Example Use** | **Source Type** |
+|-----------------|--------------|------------------|------------------|-----------------|
+| [**Me.bot**](https://www.me.bot/) | AI-powered personal assistant that organizes notes, tasks, and memories, providing emotional support and productivity tools | User inputs (text, voice) / Organized notes, reminders, summaries | Personal productivity enhancement, emotional support, idea organization | Closed |
+| [**ima.copilot**](https://ima.qq.com/) | Intelligent workstation powered by Tencent's Mix Huang model, building a personal knowledge base for learning and work scenarios | User queries / Customized responses, knowledge retrieval | Enhancing learning efficiency, work productivity, knowledge management | Closed |
+| [**Coze**](https://www.coze.com/) | Enables multi-agent collaboration across various platforms | User-defined workflows / Response | Deployed chatbots, AI agents | Closed |
+| [**Grok**](https://x.ai/grok) | AI assistant developed by xAI, designed to provide truthful, useful, and curious responses, with real-time data access and image generation | Query / Informative answers, generated images | Answering questions, generating images, providing insights | Closed |
+| [**ChatGPT**](https://chat.openai.com/) | Conversational AI developed by OpenAI, capable of understanding and generating human-like text based on prompts | User prompts / Generated text responses | Answering questions, generating images, providing insights | Closed |
 
 ## 🌞 Future Directions
 
