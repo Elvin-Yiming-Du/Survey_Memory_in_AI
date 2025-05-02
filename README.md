@@ -309,7 +309,36 @@ If you find our repository and survey useful for your research, please consider 
 16. [**Stable Hadamard Memory: Revitalizing Memory-Augmented Agents for Reinforcement Learning**](https://arxiv.org/abs/2401.08523) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2024.
 
 ## 📊 Datasets
-- Introduction, usage, and access methods of related datasets.
+
+<p align="center"><strong>Table: Datasets for Evaluating Long-Term Memory *(Continuously Updated)</strong></p>
+### *
+
+| **Dataset** | **Mo** | **Operations** | **DS Type** | **Per** | **TR** | **Metrics** | **Purpose** | **Year** |
+|-------------|--------|----------------|-------------|---------|--------|-------------|-------------|----------|
+| [**LongMemEval**](https://github.com/xiaowu0162/LongMemEval) | text | Indexing, Retrieval, Compression | MS | ✗ | ✓ | Recall@K, NDCG@K, Accuracy | Benchmark chat assistants on long-term memory abilities, including temporal reasoning. | 2025 |
+| [**LoCoMo**](https://snap-research.github.io/locomo) | text + image | Indexing, Retrieval, Compression | MS | ✗ | ✓ | Accuracy, ROUGE, Precision, Recall, F1 | Evaluate long-term memory in LLMs across QA, event summarization, and multimodal dialogue tasks. | 2024 |
+| [**MemoryBank**](https://github.com/zhongwanjun/MemoryBank-SiliconFriend/tree/main) | text | Updating, Retrieval | MS | ✓ | ✗ | Accuracy, Human Eval | Enhance LLMs with long-term memory capabilities, adapting to user personalities and contexts. | 2024 |
+| [**PerLTQA**](https://github.com/Elvin-Yiming-Du/PerLTQA) | text | Retrieval | MS | ✓ | ✗ | MAP, Recall, Precision, F1, Accuracy, GPT4 score | To explore personal long-term memory question answering ability. | 2024 |
+| [**MALP**](https://github.com/MatthewKKai/MaLP) | text | Retrieval, Compression | QA | ✓ | ✗ | ROUGE, Accuracy, Win Rate | Preference-conditioned dialogue generation. Parameter-efficient fine-tuning (PEFT) for customization. | 2024 |
+| [**DialSim**](https://dialsim.github.io/) | text | Retrieval | MS | ✓ | ✗ | Accuracy | To evaluate dialogue systems under realistic, real-time, and long-context multi-party conversation conditions. | 2024 |
+| [**CC**](https://conversation-chronicles.github.io/) | text | Retrieval | MS | ✗ | ✓ | BLEU, ROUGE | For long-term dialogue modeling with time and relationship context. | 2023 |
+| [**LAMP**](https://lamp-benchmark.github.io/) | text | Consolidation, Retrieval, Compression | MS | ✓ | ✓ | Accuracy, F1, ROUGE | Multiple entries per user. Supports both user-based splits and time-based splits. | 2023 |
+| [**MSC**](https://parl.ai/projects/msc/) | text | Consolidation, Retrieval, Compression | MS | ✓ | ✗ | PPL | Evaluate and improve long-term dialogue models via multi-session chats with evolving knowledge. | 2022 |
+| [**DuLeMon**](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon) | text | Consolidation, Updating, Retrieval, Compression | MS | ✓ | ✗ | Accuracy, F1, Recall, Precision, PPL, BLEU, DISTINCT | For dynamic persona tracking and consistent long-term interaction. | 2022 |
+| [**2WikiMultiHopQA**](https://github.com/Alab-NII/2wikimultihop) | table + knowledge base + text | Consolidation, Indexing, Retrieval, Compression | QA | ✗ | ✗ | EM, F1 | Multi-hop QA combining structured and unstructured data with reasoning paths. | 2020 |
+| [**NQ**](https://github.com/google-research-datasets/natural-questions) | text | Retrieval, Compression | QA | ✗ | ✗ | EM, F1 | Open-domain QA based on real Google search queries. | 2019 |
+| [**HotpotQA**](https://hotpotqa.github.io/) | text | Retrieval, Compression | QA | ✗ | ✗ | EM, F1 | Multi-hop QA with explainable reasoning and sentence-level supporting facts. | 2018 |
+
+---
+
+**Note:**  
+- **Mo**: Modality of the dataset (e.g., text, image, table).  
+- **Ops** (*Operations*): Memory-related operations supported or evaluated (e.g., Indexing, Retrieval, Compression, Updating, Consolidation).  
+- **DS Type**: Dataset type —  
+  - **QA** = Question Answering  
+  - **MS** = Multi-Session Dialogue  
+- **Per**: Persona present (✓ = Yes, ✗ = No).  
+- **TR**: Temporal reasoning required or present (✓ = Yes, ✗ = No).
 
 ## 🧠 Methods
 - Overview and comparison of methods used in AI memory research.
