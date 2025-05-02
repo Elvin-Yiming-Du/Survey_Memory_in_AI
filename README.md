@@ -45,10 +45,10 @@ If you find our repository and survey useful for your research, please consider 
 - [📜 Papers](#-papers)
     - [1. Survey Papers](#1-survey-papers)
     - [2. Memory Topics](#4-memory-topics)
-        - [2.1 Long Term Memory](#41-long-term-memory)
-        - [2.2 Long Context Memory](#42-long-context-memory)
-        - [2.3 Parametric Memory](#43-parametric-memory)
-        - [2.4 Multi-source Memory](#44-multi-source-memory)
+        - [2.1 Long Term Memory](#21-long-term-memory)
+        - [2.2 Long Context Memory](#22-long-context-memory)
+        - [2.3 Parametric Memory](#23-parametric-memory)
+        - [2.4 Multi-source Memory](#24-multi-source-memory)
 - [📊 Datasets](#-datasets)
 - [🧠 Methods](#-methods)
 - [⚙️ Tools](#-tools)
@@ -315,7 +315,23 @@ If you find our repository and survey useful for your research, please consider 
 - Overview and comparison of methods used in AI memory research.
 
 ## ⚙️ Tools
-- Tools and libraries for memory modeling and related experiments.
+
+### Components Level
+
+### Framework Level
+
+### Application-Layer Level
+
+### Product Level
+#### Table: Component-Level Tools for Memory Management and Utilization.
+
+| **Memory Tool** | **Function** | **Input/Output** | **Example Use** |
+|-----------------|--------------|------------------|------------------|
+| [**FAISS**](https://github.com/facebookresearch/faiss) | Library for fast storage, indexing, and retrieval of high-dimensional vectors | vector / index, relevance score | Vector Database — Index a large set of text embeddings and retrieve relevant documents in RAG systems |
+| [**Neo4j**](https://neo4j.com/?utm_source=chatgpt.com) | Native graph database supporting ACID transactions and Cypher query language | Nodes and relationships with properties / query results via Cypher | Graph Database — Model and retrieve complex relational data (e.g., fraud detection, recommendation) |
+| [**BM25**](https://pypi.org/project/rank-bm25/) | Probabilistic ranking function for estimating document relevance | Text queries / ranked list of documents | Improve search engine results and document retrieval |
+| [**Contriever**](https://github.com/facebookresearch/contriever) | Unsupervised dense retriever trained with contrastive learning | Query text / list of similar documents | Multilingual QA systems with high-recall retrieval |
+| [**Embedding Models (e.g., OpenAI)**](https://huggingface.co/spaces/mteb/leaderboard) | Convert text, images, or audio into dense vector representations capturing semantic meaning | Raw data / vector embeddings | Text similarity, recommendation, clustering |
 
 ## 🌞 Future Directions
 
