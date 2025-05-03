@@ -162,6 +162,10 @@ If you find our repository and survey useful for your research, please consider 
 
 35. [**Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control**](https://arxiv.org/abs/2306.07863) _Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An_ Arxiv 2024.
 
+36. [**Moviechat: From dense token to sparse memory for long video understanding**](https://openaccess.thecvf.com/content/CVPR2024/html/Song_MovieChat_From_Dense_Token_to_Sparse_Memory_for_Long_Video_CVPR_2024_paper.html) Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang. _ CVPR 2024.
+
+37. [**Moviechat+: Question-aware sparse memory for long video question answering**](https://arxiv.org/abs/2404.17176) Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang. _ Arxiv 2024.
+
 #### 2.2 Long Context Memory
 
 1. [**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**](https://arxiv.org/abs/1503.00075) _Kai Sheng Tai, Richard Socher, Christopher D. Manning._ Arxiv 2015.
@@ -322,6 +326,7 @@ If you find our repository and survey useful for your research, please consider 
 | [**PerLTQA**](https://github.com/Elvin-Yiming-Du/PerLTQA) | text | Retrieval | MS | ✓ | ✗ | MAP, Recall, Precision, F1, Accuracy, GPT4 score | To explore personal long-term memory question answering ability. | 2024 |
 | [**MALP**](https://github.com/MatthewKKai/MaLP) | text | Retrieval, Compression | QA | ✓ | ✗ | ROUGE, Accuracy, Win Rate | Preference-conditioned dialogue generation. Parameter-efficient fine-tuning (PEFT) for customization. | 2024 |
 | [**DialSim**](https://dialsim.github.io/) | text | Retrieval | MS | ✓ | ✗ | Accuracy | To evaluate dialogue systems under realistic, real-time, and long-context multi-party conversation conditions. | 2024 |
+| [**MovieChat-1K**](https://github.com/rese1f/MovieChat?tab=readme-ov-file) | text + video | question-answering + caption | QA | ✗ | ✓ | Accuracy | For long-term video understanding for Large Multimodal Models across video question-answering and video captioning tasks. | 2023 |
 | [**CC**](https://conversation-chronicles.github.io/) | text | Retrieval | MS | ✗ | ✓ | BLEU, ROUGE | For long-term dialogue modeling with time and relationship context. | 2023 |
 | [**LAMP**](https://lamp-benchmark.github.io/) | text | Consolidation, Retrieval, Compression | MS | ✓ | ✓ | Accuracy, F1, ROUGE | Multiple entries per user. Supports both user-based splits and time-based splits. | 2023 |
 | [**MSC**](https://parl.ai/projects/msc/) | text | Consolidation, Retrieval, Compression | MS | ✓ | ✗ | PPL | Evaluate and improve long-term dialogue models via multi-session chats with evolving knowledge. | 2022 |
