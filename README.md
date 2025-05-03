@@ -164,8 +164,6 @@ If you find our repository and survey useful for your research, please consider 
 
 36. [**Moviechat: From dense token to sparse memory for long video understanding**](https://openaccess.thecvf.com/content/CVPR2024/html/Song_MovieChat_From_Dense_Token_to_Sparse_Memory_for_Long_Video_CVPR_2024_paper.html) Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Haozhe Chi, Xun Guo, Tian Ye, Yanting Zhang, Yan Lu, Jenq-Neng Hwang, Gaoang Wang. _ CVPR 2024.
 
-37. [**Moviechat+: Question-aware sparse memory for long video question answering**](https://arxiv.org/abs/2404.17176) Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang. _ Arxiv 2024.
-
 #### 2.2 Long Context Memory
 
 1. [**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**](https://arxiv.org/abs/1503.00075) _Kai Sheng Tai, Richard Socher, Christopher D. Manning._ Arxiv 2015.
@@ -311,6 +309,8 @@ If you find our repository and survey useful for your research, please consider 
 15. [**Learning Multimodal Contrast with Cross-modal Memory and Reinforced Contrast Recognition**](https://arxiv.org/abs/2404.00925) _Yuanhe Tian, Fei Xia, Yan Song._ Arxiv 2024.
 
 16. [**Stable Hadamard Memory: Revitalizing Memory-Augmented Agents for Reinforcement Learning**](https://arxiv.org/abs/2401.08523) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2024.
+
+17. [**Moviechat+: Question-aware sparse memory for long video question answering**](https://arxiv.org/abs/2404.17176) Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang. _ Arxiv 2024.
 
 ## 📊 Datasets
 
