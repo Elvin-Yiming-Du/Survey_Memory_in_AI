@@ -96,11 +96,11 @@ If you find our repository and survey useful for your research, please consider 
 
 #### 2.1 Long Term Memory
 
-1. [**Evaluating Very Long-Term Conversational Memory of LLM Agents**](https://aclanthology.org/2024.acl-long.747.pdf)_Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang_ ACL 2024.
+1. [**Evaluating Very Long-Term Conversational Memory of LLM Agents**](https://aclanthology.org/2024.acl-long.747.pdf)_Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang._ ACL 2024.
 
-2. [**MemoryBank: Enhancing Large Language Models with Long-Term Memory**](https://ojs.aaai.org/index.php/AAAI/article/view/29946)_Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang_ AAAI 2024.
+2. [**MemoryBank: Enhancing Large Language Models with Long-Term Memory**](https://ojs.aaai.org/index.php/AAAI/article/view/29946)_Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang._ AAAI 2024.
 
-3. [**A-MEM: Agentic Memory for LLM Agents**](https://arxiv.org/abs/2502.12110)_Wujiang Xu, Kai Mei, Hang Gao, Juntao Tan, Zujie Liang, Yongfeng Zhang_ Arxiv 2024.
+3. [**A-MEM: Agentic Memory for LLM Agents**](https://arxiv.org/abs/2502.12110)_Wujiang Xu, Kai Mei, Hang Gao, Juntao Tan, Zujie Liang, Yongfeng Zhang._ Arxiv 2024.
 
 4. [**Beyond Goldfish Memory: Long-Term Open-Domain Conversation**](https://aclanthology.org/2022.acl-long.356/) _Jing Xu, Arthur Szlam, Jason Weston._ ACL 2022.
 
@@ -126,39 +126,39 @@ If you find our repository and survey useful for your research, please consider 
 
 15. [**SCM: Enhancing Large Language Model with Self-Controlled Memory Framework**](https://arxiv.org/abs/2304.13343) _Bing Wang, Xinnian Liang, Jian Yang, Hui Huang, Shuangzhi Wu, Peihao Wu, Lu Lu, Zejun Ma, Zhoujun Li._ Arxiv 2023.
 
-16. [**Towards Teachable Reasoning Systems: Using a Dynamic Memory of User Feedback for Continual System Improvement**](https://arxiv.org/abs/2204.13074) _Bhavana Dalvi Mishra, Oyvind Tafjord, Peter Clark._ Arxiv 2022.
+16. [**Towards Teachable Reasoning Systems: Using a Dynamic Memory of User Feedback for Continual System Improvement**](https://aclanthology.org/2022.emnlp-main.644/) _Bhavana Dalvi Mishra, Oyvind Tafjord, Peter Clark._ EMNLP 2022.
 
-17. [**StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization**](https://arxiv.org/abs/2311.14495) _Shida Wang, Qianxiao Li._ Arxiv 2023.
+17. [**StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization**](https://proceedings.mlr.press/v235/wang24ag.html) _Shida Wang, Qianxiao Li._ ICML 2024.
 
-18. [**Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs**](https://arxiv.org/abs/2409.19401) _Zheng Wang, Zhongyang Li, Zeren Jiang, Dandan Tu, Wei Shi._ Arxiv 2024.
+18. [**Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs**](https://aclanthology.org/2024.emnlp-main.281.pdf) _Zheng Wang, Zhongyang Li, Zeren Jiang, Dandan Tu, Wei Shi._ EMNLP 2024.
 
-19. [**Learning to Repair: Repairing Model Output Errors after Deployment Using a Dynamic Memory of Feedback**](https://arxiv.org/abs/2112.09737) _Niket Tandon, Aman Madaan, Peter Clark, Yiming Yang._ Arxiv 2021.
+19. [**Learning to Repair: Repairing Model Output Errors after Deployment Using a Dynamic Memory of Feedback**](https://aclanthology.org/2022.findings-naacl.26/) _Niket Tandon, Aman Madaan, Peter Clark, Yiming Yang._ NAACL 2022.
 
-20. [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://arxiv.org/abs/2402.11975) _Nuo Chen, Hongguang Li, Jia Li, Yuxuan Li, Wei Wu._ Arxiv 2024.
+20. [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://aclanthology.org/2025.coling-main.51.pdf) _Nuo Chen, Hongguang Li, Jia Li, Yuxuan Li, Wei Wu._ COLING 2025.
 
-21. [**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**](https://arxiv.org/abs/2312.09075) _Hao Sun, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin._ Arxiv 2023.
+21. [**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**](https://aclanthology.org/2024.emnlp-main.469/) _Hao Sun, Hengyi Cai, Bo Wang, Yingyan Hou, Xiaochi Wei, Shuaiqiang Wang, Yan Zhang, Dawei Yin._ EMNLP 2024.
 
-22. [**There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory**](https://arxiv.org/abs/2204.02624) _Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan._ Arxiv 2022.
+22. [**There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory**](https://aclanthology.org/2022.acl-long.270/) _Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan._ ACL 2022.
 
 23. [**PerLTQA: A Personal Long-Term Memory Dataset for Memory Classification, Retrieval, and Synthesis in Question Answering**](https://arxiv.org/abs/2402.16288) _Yiming Du, Hongru Wang, Zhengyi Zhao, Bin Liang, Baojun Wang, Wanjun Zhong, Zezhong Wang, Kam-Fai Wong._ Arxiv 2024.
 
-24. [**A Cooperative Memory Network for Personalized Task-oriented Dialogue Systems with Incomplete User Profiles**](https://arxiv.org/abs/2102.08322) _Jiahuan Pei, Pengjie Ren, Maarten de Rijke._ Arxiv 2021.
+24. [**A Cooperative Memory Network for Personalized Task-oriented Dialogue Systems with Incomplete User Profiles**](https://dl.acm.org/doi/10.1145/3442381.3449843) _Jiahuan Pei, Pengjie Ren, Maarten de Rijke._ WWW 2021.
 
-25. [**An Iterative Associative Memory Model for Empathetic Response Generation**](https://arxiv.org/abs/2402.17959) _Zhou Yang, Zhaochun Ren, Yufeng Wang, Haizhou Sun, Chao Chen, Xiaofei Zhu, Xiangwen Liao._ Arxiv 2024.
+25. [**An Iterative Associative Memory Model for Empathetic Response Generation**](https://aclanthology.org/2024.acl-long.170/) _Zhou Yang, Zhaochun Ren, Yufeng Wang, Haizhou Sun, Chao Chen, Xiaofei Zhu, Xiangwen Liao._ ACL 2024.
 
-26. [**Towards Lifelong Dialogue Agents via Timeline-based Memory Management**](https://arxiv.org/abs/2406.10996) _Kai Tzu-iunn Ong, Namyoung Kim, Minju Gwak, Hyungjoo Chae, Taeyoon Kwon, Yohan Jo, Seung-won Hwang, Dongha Lee, Jinyoung Yeo._ Arxiv 2025.
+26. [**Towards Lifelong Dialogue Agents via Timeline-based Memory Management**](https://aclanthology.org/2025.naacl-long.435/) _Kai Tzu-iunn Ong, Namyoung Kim, Minju Gwak, Hyungjoo Chae, Taeyoon Kwon, Yohan Jo, Seung-won Hwang, Dongha Lee, Jinyoung Yeo._ NAACL 2025.
 
 27. [**COCOA: CBT-based Conversational Counseling Agent Using Memory Specialized in Cognitive Distortions and Dynamic Prompt**](https://arxiv.org/abs/2402.17546) _Suyeon Lee, Jieun Kang, Harim Kim, Kyoung-Mee Chung, Dongha Lee, Jinyoung Yeo._ Arxiv 2024.
 
-28. [**Mixed-Session Conversation with Egocentric Memory**](https://arxiv.org/abs/2410.02503) _Jihyoung Jang, Taeyoung Kim, Hyounghun Kim._ Arxiv 2024.
+28. [**Mixed-Session Conversation with Egocentric Memory**](https://aclanthology.org/2024.findings-emnlp.689/) _Jihyoung Jang, Taeyoung Kim, Hyounghun Kim._ EMNLP 2024.
 
-29. [**FragRel: Exploiting Fragment-level Relations in the External Memory of Large Language Models**](https://arxiv.org/abs/2406.03092) _Xihang Yue, Linchao Zhu, Yi Yang._ Arxiv 2024.
+29. [**FragRel: Exploiting Fragment-level Relations in the External Memory of Large Language Models**](https://aclanthology.org/2024.findings-acl.968.pdf) _Xihang Yue, Linchao Zhu, Yi Yang._ ACL 2024.
 
-30. [**LDM²: A Large Decision Model Imitating Human Cognition with Dynamic Memory Enhancement**](https://arxiv.org/abs/2312.08402) _Xingjin Wang, Linjing Li, Dongfeng Zeng._ Arxiv 2023.
+30. [**LDM²: A Large Decision Model Imitating Human Cognition with Dynamic Memory Enhancement**](https://aclanthology.org/2023.findings-emnlp.309/) _Xingjin Wang, Linjing Li, Dongfeng Zeng._ EMMNLP 2023.
 
-31. [**NarrativeXL: A Large-scale Dataset For Long-Term Memory Models**](https://arxiv.org/abs/2305.13877) _Arseny Moskvichev, Ky-Vinh Mai._ Arxiv 2023.
+31. [**NarrativeXL: A Large-scale Dataset For Long-Term Memory Models**](https://aclanthology.org/2023.findings-emnlp.1005.pdf) _Arseny Moskvichev, Ky-Vinh Mai._ EMNLP 2023.
 
-32. [**Extractive Medical Entity Disambiguation with Memory Mechanism and Memorized Entity Information**](https://aclanthology.org/2024.findings-emnlp.810/) _Guobiao Zhang, Xueping Peng, Tao Shen, Guodong Long, Jiasheng Si, Libo Qin, Wenpeng Lu._ Arxiv 2024.
+32. [**Extractive Medical Entity Disambiguation with Memory Mechanism and Memorized Entity Information**](https://aclanthology.org/2024.findings-emnlp.810/) _Guobiao Zhang, Xueping Peng, Tao Shen, Guodong Long, Jiasheng Si, Libo Qin, Wenpeng Lu._ EMNLP 2024.
 
 33. [**Zep: A Temporal Knowledge Graph Architecture for Agent Memory**](https://arxiv.org/abs/2501.13956) _Preston Rasmussen, Daniel Chalef._ Arxiv 2025.
 
@@ -170,7 +170,7 @@ If you find our repository and survey useful for your research, please consider 
 
 #### 2.2 Long Context Memory
 
-1. [**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**](https://arxiv.org/abs/1503.00075) _Kai Sheng Tai, Richard Socher, Christopher D. Manning._ Arxiv 2015.
+1. [**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**](https://aclanthology.org/P15-1150/) _Kai Sheng Tai, Richard Socher, Christopher D. Manning._ ACL 2015.
 
 2. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading**](https://arxiv.org/abs/2310.05029) _Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz._ Arxiv 2023.
 
@@ -178,37 +178,37 @@ If you find our repository and survey useful for your research, please consider 
 
 4. [**Recurrent Memory Transformer**](https://arxiv.org/abs/2207.06881) _Aydar Bulatov, Sergey I. Nikolenko, Artem Babenko._ Arxiv 2022.
 
-5. [**InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory**](https://arxiv.org/abs/2402.04617) _Chaojun Xiao, Pengle Zhang, Xu Han, Guangxuan Xiao, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun._ Arxiv 2024.
+5. [**InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory**](https://icml.cc/virtual/2024/39062) _Chaojun Xiao, Pengle Zhang, Xu Han, Guangxuan Xiao, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun._ ICML 2024.
 
-6. [**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**](https://arxiv.org/abs/2402.09727) _Xinyun Chen, Hiroki Furuta, John Canny, Ian Tenney._ Arxiv 2024.
+6. [**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**](https://dl.acm.org/doi/10.5555/3692070.3693124) _Xinyun Chen, Hiroki Furuta, John Canny, Ian Tenney._ ICML 2024.
 
-7. [**Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control**](https://arxiv.org/abs/2306.07863) _Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An._ Arxiv 2023.
+7. [**Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control**](https://arxiv.org/abs/2306.07863) _Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An._ ICLR 2024.
 
-8. [**Mastering Memory Tasks with World Models**](https://arxiv.org/abs/2403.04253) _Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar._ Arxiv 2024.
+8. [**Mastering Memory Tasks with World Models**](https://arxiv.org/abs/2403.04253) _Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar._ ICLR 2024.
 
-9. [**Memory Consolidation Enables Long-Context Video Understanding**](https://arxiv.org/abs/2402.05861) _Ivana Balazevic, Yuki M. Asano, Andreas Kirsch, Andrew Zisserman._ Arxiv 2024.
+9. [**Memory Consolidation Enables Long-Context Video Understanding**](https://proceedings.mlr.press/v235/balazevic24a.html) _Ivana Balazevic, Yuki M. Asano, Andreas Kirsch, Andrew Zisserman._ ICML 2024.
 
-10. [**Online Adaptation of Language Models with a Memory of Amortized Contexts**](https://arxiv.org/abs/2403.04317) _Yongqiang Tack, Seonghyeon Ye, Sangwoo Mo, Jung-Woo Ha, Sung Ju Hwang._ Arxiv 2024.
+10. [**Online Adaptation of Language Models with a Memory of Amortized Contexts**](https://proceedings.neurips.cc/paper_files/paper/2024/file/eaf956b52bae51fbf387b8be4cc3ce18-Paper-Conference.pdf) _Yongqiang Tack, Seonghyeon Ye, Sangwoo Mo, Jung-Woo Ha, Sung Ju Hwang._ NeurIPS 2024.
 
-11. [**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**](https://arxiv.org/abs/2410.01518) _Jungwook Choi, Yongqiang Tack, Seonghyeon Ye, Sangwoo Mo, Jung-Woo Ha, Sung Ju Hwang._ Arxiv 2024.
+11. [**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**](https://aclanthology.org/2024.emnlp-main.897.pdf) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ EMNLP 2024.
 
-12. [**B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory**](https://arxiv.org/abs/2407.06324) _Luca Zancato, Arjun Seshadri, Yonatan Dukler, Aditya Golatkar, Yantao Shen, Benjamin Bowman, Matthew Trager, Alessandro Achille, Stefano Soatto._ Arxiv 2024.
+12. [**B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory**](https://neurips.cc/virtual/2024/poster/95153) _Luca Zancato, Arjun Seshadri, Yonatan Dukler, Aditya Golatkar, Yantao Shen, Benjamin Bowman, Matthew Trager, Alessandro Achille, Stefano Soatto._ NeurIPS 2024.
 
-13. [**Needle in the Haystack for Memory Based Large Language Models**](https://arxiv.org/abs/2407.01437) _Elliot Nelson, Georgios Kollias, Payel Das, Subhajit Chaudhury, Soham Dan._ Arxiv 2024.
+13. [**Needle in the Haystack for Memory Based Large Language Models**](https://icml.cc/virtual/2024/36123) _Elliot Nelson, Georgios Kollias, Payel Das, Subhajit Chaudhury, Soham Dan._ ICML 2024.
 
-14. [**Memorize Step by Step: Efficient Long-Context Prefilling with Incremental Memory and Decremental Chunk**](https://aclanthology.org/2024.emnlp-main.1169/) _Yunfan Shao, Yunlong Liang, Yongqiang Tack, Seonghyeon Ye, Sangwoo Mo, Jung-Woo Ha, Sung Ju Hwang._ Arxiv 2024.
+14. [**Memorize Step by Step: Efficient Long-Context Prefilling with Incremental Memory and Decremental Chunk**](https://aclanthology.org/2024.emnlp-main.1169/) _Zhiyuan Zeng, Qipeng Guo, Xiaoran Liu, Zhangyue Yin, Wentao Shu, Mianqiu Huang, Bo Wang, Yunhua Zhou, Linlin Li, Qun Liu, Xipeng Qiu._ EMNLP 2024.
 
-15. [**Memory Layers at Scale**](https://arxiv.org/abs/2412.09764) _Yongqiang Tack, Seonghyeon Ye, Sangwoo Mo, Jung-Woo Ha, Sung Ju Hwang._ Arxiv 2024.
+15. [**Memory Layers at Scale**](https://arxiv.org/abs/2412.09764) _Vincent-Pierre Berges, Barlas Oğuz, Daniel Haziza, Wen-tau Yih, Luke Zettlemoyer, Gargi Ghosh._ Arxiv 2024.
 
-16. [**Memory Injections: Correcting Multi-Hop Reasoning Failures During Inference in Transformer-Based Language Models**](https://arxiv.org/abs/2309.05605) _Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Daniel Grzenda, Nathaniel Hudson, André Bauer, Kyle Chard, Ian Foster._ Arxiv 2023.
+16. [**Memory Injections: Correcting Multi-Hop Reasoning Failures During Inference in Transformer-Based Language Models**](https://aclanthology.org/2023.blackboxnlp-1.26/) _Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Daniel Grzenda, Nathaniel Hudson, André Bauer, Kyle Chard, Ian Foster._ Arxiv 2023.
 
-17. [**When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models**](https://arxiv.org/abs/2502.15443) _Wenhao Wang, Yunhao Mao, Dingcheng Tang, Haoyu Du, Ning Guan, Yanzhi Xue._ Arxiv 2025.
+17. [**When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models**](https://aclanthology.org/2024.findings-emnlp.988/) _Weilan Wang, Yu Mao, Tang Dongdong, Du Hongchao, Nan Guan, Chun Jason Xue._ EMNLP 2024.
 
-18. [**MELODI: Exploring Memory Compression for Long Contexts**](https://arxiv.org/abs/2410.03156) _Yinpeng Chen, DeLesley Hutchins, Aren Jansen, Andrey Zhmoginov, David Racz, Jesper Andersen._ Arxiv 2024.
+18. [**MELODI: Exploring Memory Compression for Long Contexts**](https://arxiv.org/abs/2410.03156) _Yinpeng Chen, DeLesley Hutchins, Aren Jansen, Andrey Zhmoginov, David Racz, Jesper Andersen._ ICLP 2025.
 
-19. [**Transformer Working Memory Enables Regular Language Reasoning and Natural Language Length Extrapolation**](https://arxiv.org/abs/2305.03796) _Chi Fan, Jiaqi Mu, Yiming Yang._ Arxiv 2023.
+19. [**Transformer Working Memory Enables Regular Language Reasoning and Natural Language Length Extrapolation**](https://aclanthology.org/2023.findings-emnlp.397/) _Ta-Chung Chi, Ting-Han Fan, Alexander Rudnicky, Peter Ramadge._ EMNLP 2023.
 
-20. [**Mini-Sequence Transformers: Optimizing Intermediate Memory for Long Sequences Training**](https://arxiv.org/abs/2407.15892) _Yongqiang Tack, Seonghyeon Ye, Sangwoo Mo, Jung-Woo Ha, Sung Ju Hwang._ Arxiv 2024.
+20. [**Mini-Sequence Transformers: Optimizing Intermediate Memory for Long Sequences Training**](https://neurips.cc/virtual/2024/poster/96824) _Cheng Luo, Jiawei Zhao, Zhuoming Chen, Beidi Chen, Anima Anandkumar._ NeurIPS 2024.
 
 21. [**Learn To Remember: Transformer with Recurrent Memory for Document-Level Machine Translation**](https://arxiv.org/abs/2205.01546) _Yukun Feng, Feng Li, Ziang Song, Boyuan Zheng, Philipp Koehn._ Arxiv 2022.
 
