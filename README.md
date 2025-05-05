@@ -104,11 +104,11 @@ If you find our repository and survey useful for your research, please consider 
 
 4. [**Beyond Goldfish Memory: Long-Term Open-Domain Conversation**](https://aclanthology.org/2022.acl-long.356/) _Jing Xu, Arthur Szlam, Jason Weston._ ACL 2022.
 
-5. [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**](https://neurips.cc/virtual/2024/poster/94762) _Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Shizhu He._ NeurIPS 2024.
+5. [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**](https://neurips.cc/virtual/2024/poster/94762) _Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Liqiang Nie._ NeurIPS 2024.
 
 6. [**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**](https://proceedings.neurips.cc/paper_files/paper/2024/file/6ddc001d07ca4f319af96a3024f6dbd1-Paper-Conference.pdf) _Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su._ NeurIPS 2024.
 
-7. [**Long Time No See! Open-Domain Conversation with Long-Term Persona Memory**](https://aclanthology.org/2022.findings-acl.207.pdf) _Jing Xu, Zhengyu Niu, Wenquan Wu, Hua Wu, Haifeng Wang, Zebin Gou, Shuo Wang._ ACL 2022.
+7. [**Long Time No See! Open-Domain Conversation with Long-Term Persona Memory**](https://aclanthology.org/2022.findings-acl.207.pdf) _Xinchao Xu, Zhibin Gou, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang, Shihang Wang._ ACL 2022.
 
 8. [**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**](https://arxiv.org/abs/2410.10813) _Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu._ ICLR 2025.
 
