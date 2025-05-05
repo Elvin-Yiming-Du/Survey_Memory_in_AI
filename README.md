@@ -76,10 +76,10 @@ If you find our repository and survey useful for your research, please consider 
 
 3. [**Knowledge Editing for Large Language Models: A Survey**](https://arxiv.org/abs/2310.16218) _Song Wang, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, Jundong Li._ Arxiv 2024.
 
-4. [**Knowledge Conflicts for LLMs: A Survey**](https://arxiv.org/abs/2403.08319) _Rongwu Xu, Zehan Qi, Zhijiang Guo, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu._ Arxiv 2024.
+4. [**Knowledge Conflicts for LLMs: A Survey**](https://aclanthology.org/2024.emnlp-main.486/) _Rongwu Xu, Zehan Qi, Zhijiang Guo, Cunxiang Wang, Hongru Wang, Yue Zhang, Wei Xu._ EMNLP 2024.
 
 
-5. [**Prompt Compression for Large Language Models: A Survey**](https://arxiv.org/abs/2410.12388) _Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier_ Arxiv 2024.
+5. [**Prompt Compression for Large Language Models: A Survey**](https://aclanthology.org/2025.naacl-long.368/) _Zongqian Li, Yinhong Liu, Yixuan Su, Nigel Collier_ NAACL 2025.
 
 6. [**A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models**](https://www.arxiv.org/abs/2503.01854) _Jiahui Geng, Qing Li, Herbert Woisetschlaeger, Zongxiong Chen, Yuxia Wang, Preslav Nakov, Hans-Arno Jacobsen, Fakhri Karray._ Arxiv 2025.
 
@@ -96,31 +96,31 @@ If you find our repository and survey useful for your research, please consider 
 
 #### 2.1 Long Term Memory
 
-1. [**Evaluating Very Long-Term Conversational Memory of LLM Agents**](https://arxiv.org/abs/2402.17753)_Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang_ Arxiv 2024.
+1. [**Evaluating Very Long-Term Conversational Memory of LLM Agents**](https://aclanthology.org/2024.acl-long.747.pdf)_Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang_ ACL 2024.
 
-2. [**MemoryBank: Enhancing Large Language Models with Long-Term Memory**](https://arxiv.org/abs/2305.10250)_Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang_ Arxiv 2024.
+2. [**MemoryBank: Enhancing Large Language Models with Long-Term Memory**](https://ojs.aaai.org/index.php/AAAI/article/view/29946)_Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang_ AAAI 2024.
 
 3. [**A-MEM: Agentic Memory for LLM Agents**](https://arxiv.org/abs/2502.12110)_Wujiang Xu, Kai Mei, Hang Gao, Juntao Tan, Zujie Liang, Yongfeng Zhang_ Arxiv 2024.
 
-4. [**Beyond Goldfish Memory: Long-Term Open-Domain Conversation**](https://arxiv.org/abs/2107.07567) _Jing Xu, Arthur Szlam, Jason Weston._ Arxiv 2021.
+4. [**Beyond Goldfish Memory: Long-Term Open-Domain Conversation**](https://aclanthology.org/2022.acl-long.356/) _Jing Xu, Arthur Szlam, Jason Weston._ ACL 2022.
 
-5. [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**](https://arxiv.org/abs/2408.03615) _Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Shizhu He._ Arxiv 2024.
+5. [**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**](https://neurips.cc/virtual/2024/poster/94762) _Zaijing Li, Yuquan Xie, Rui Shao, Gongwei Chen, Dongmei Jiang, Shizhu He._ NeurIPS 2024.
 
-6. [**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**](https://arxiv.org/abs/2405.14831) _Yu Su, Yujia Xie, Yujie Qian, Yifan Hou, Xinyan Wang, Yiming Yang, Xiang Ren._ Arxiv 2024.
+6. [**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**](https://proceedings.neurips.cc/paper_files/paper/2024/file/6ddc001d07ca4f319af96a3024f6dbd1-Paper-Conference.pdf) _Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, Yu Su._ NeurIPS 2024.
 
-7. [**Long Time No See! Open-Domain Conversation with Long-Term Persona Memory**](https://arxiv.org/abs/2203.05797) _Jing Xu, Zhengyu Niu, Wenquan Wu, Hua Wu, Haifeng Wang, Zebin Gou, Shuo Wang._ Arxiv 2022.
+7. [**Long Time No See! Open-Domain Conversation with Long-Term Persona Memory**](https://aclanthology.org/2022.findings-acl.207.pdf) _Jing Xu, Zhengyu Niu, Wenquan Wu, Hua Wu, Haifeng Wang, Zebin Gou, Shuo Wang._ ACL 2022.
 
-8. [**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**](https://arxiv.org/abs/2410.10813) _Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu._ Arxiv 2024.
+8. [**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**](https://arxiv.org/abs/2410.10813) _Di Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, Dong Yu._ ICLR 2025.
 
 9. [**"My agent understands me better": Integrating Dynamic Human-like Memory Recall and Consolidation in LLM-Based Agents**](https://arxiv.org/abs/2404.00573) _Yu Hou, Tamoto Yuta, Mayur Tikundi._ Arxiv 2024.
 
-10. [**Keep Me Updated! Memory Management in Long-term Conversations**](https://arxiv.org/abs/2210.08750) _Sanghwan Bae, Donghyun Kwak, Soyoung Kang, Min Young Lee, Sungdong Kim, Yuin Jeong, Hyeri Kim, Sang-Woo Lee, Woomyoung Park, Nako Sung._ Arxiv 2022.
+10. [**Keep Me Updated! Memory Management in Long-term Conversations**](https://aclanthology.org/2022.findings-emnlp.276/) _Sanghwan Bae, Donghyun Kwak, Soyoung Kang, Min Young Lee, Sungdong Kim, Yuin Jeong, Hyeri Kim, Sang-Woo Lee, Woomyoung Park, Nako Sung._ EMNLP 2022.
 
-11. [**MoT: Memory-of-Thought Enables ChatGPT to Self-Improve**](https://arxiv.org/abs/2305.05181) _Sureman Lee, Yujie Qian, Yujia Xie, Yifan Hou, Xinyan Wang, Yiming Yang, Xiang Ren._ Arxiv 2023.
+11. [**MoT: Memory-of-Thought Enables ChatGPT to Self-Improve**](https://aclanthology.org/2023.emnlp-main.392/) _Sureman Lee, Yujie Qian, Yujia Xie, Yifan Hou, Xinyan Wang, Yiming Yang, Xiang Ren._ EMNLP 2023.
 
 12. [**Recursively Summarizing Enables Long-Term Dialogue Memory in Large Language Models**](https://arxiv.org/abs/2308.15022) _Qingxue Wang, Ling Ding, Yaran Cao, Zhilang Tan, Shi Wang, Dacheng Tao, Liu Qiu._ Arxiv 2023.
 
-13. [**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**](https://arxiv.org/abs/2411.06736) _Yu Hou, Tamoto Yuta, Mayur Tikundi._ Arxiv 2024.
+13. [**Mr.Steve: Instruction-Following Agents in Minecraft with What-Where-When Memory**](https://arxiv.org/abs/2411.06736) _Yu Hou, Tamoto Yuta, Mayur Tikundi._ ICLR 2024.
 
 14. [**LLM-based Medical Assistant Personalization with Short- and Long-Term Memory Coordination**](https://arxiv.org/abs/2309.11696) _Yuwei Zhang, Yifan Hou, Xinyan Wang, Yiming Yang, Xiang Ren._ Arxiv 2023.
 
@@ -225,9 +225,9 @@ If you find our repository and survey useful for your research, please consider 
 
 #### 2.3 Parametric Memory
 
-1. [**Mass-Editing Memory in a Transformer**](https://arxiv.org/abs/2210.07229) _Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau._ Arxiv 2022.
+1. [**Mass-Editing Memory in a Transformer**](https://iclr.cc/virtual/2023/poster/11880) _Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau._ ICLR 2023.
 
-2. [**Memory-Based Model Editing at Scale**](https://arxiv.org/abs/2206.06520) _Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn._ Arxiv 2022.
+2. [**Memory-Based Model Editing at Scale**](https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf) _Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn._ ICML 2022.
 
 3. [**Memory-assisted prompt editing to improve GPT-3 after deployment**](https://arxiv.org/abs/2201.06009) _Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang._ Arxiv 2022.
 
@@ -278,6 +278,8 @@ If you find our repository and survey useful for your research, please consider 
 26. [**Memory Replay with Data Compression for Continual Learning**](https://arxiv.org/abs/2202.06592) _Liyuan Wang, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu_ Arxiv 2022.
 
 27. [**MEMORYLLM: Towards Self-Updatable Large Language Models**](https://arxiv.org/abs/2402.04624) _Yu Wang, Yifan Gao, Xiusi Chen, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley_ Arxiv 2024.
+
+28. [**PaLM-E: An Embodied Multimodal Language Model**](https://proceedings.mlr.press/v202/driess23a/driess23a.pdf) _Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence_ ICML 2023.
 
 
 #### 2.4 Multi-source Memory
