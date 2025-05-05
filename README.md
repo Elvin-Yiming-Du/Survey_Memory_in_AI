@@ -210,17 +210,17 @@ If you find our repository and survey useful for your research, please consider 
 
 20. [**Mini-Sequence Transformers: Optimizing Intermediate Memory for Long Sequences Training**](https://neurips.cc/virtual/2024/poster/96824) _Cheng Luo, Jiawei Zhao, Zhuoming Chen, Beidi Chen, Anima Anandkumar._ NeurIPS 2024.
 
-21. [**Learn To Remember: Transformer with Recurrent Memory for Document-Level Machine Translation**](https://arxiv.org/abs/2205.01546) _Yukun Feng, Feng Li, Ziang Song, Boyuan Zheng, Philipp Koehn._ Arxiv 2022.
+21. [**Learn To Remember: Transformer with Recurrent Memory for Document-Level Machine Translation**](https://aclanthology.org/2022.findings-naacl.105/) _Yukun Feng, Feng Li, Ziang Song, Boyuan Zheng, Philipp Koehn._ NAACL 2022.
 
-22. [**Linearizing Transformer with Key-Value Memory**](https://arxiv.org/abs/2203.12644) _Yizhe Zhang, Deng Cai._ Arxiv 2022.
+22. [**Linearizing Transformer with Key-Value Memory**](https://aclanthology.org/2022.emnlp-main.24.pdf) _Yizhe Zhang, Deng Cai._ EMNLP 2022.
 
-23. [**A Memory Model for Question Answering from Streaming Data Supported by Rehearsal and Anticipation of Coreference Information**](https://arxiv.org/abs/2305.07565) _Vladimir Araujo, Andres Soto, Marie-Francine Moens._ Arxiv 2023.
+23. [**A Memory Model for Question Answering from Streaming Data Supported by Rehearsal and Anticipation of Coreference Information**](https://aclanthology.org/2023.findings-acl.830/) _Vladimir Araujo, Alvaro Soto, Marie-Francine Moens._ ACL 2023.
 
-24. [**LaMemo: Language Modeling with Look-Ahead Memory**](https://arxiv.org/abs/2204.07341) _Haoze Ji, Rongcheng Zhang, Zheyang Yang, Zheng Hu, Minlie Huang._ Arxiv 2022.
+24. [**LaMemo: Language Modeling with Look-Ahead Memory**](https://aclanthology.org/2022.naacl-main.422/) _Haoze Ji, Rongcheng Zhang, Zheyang Yang, Zheng Hu, Minlie Huang._ NAACL 2022.
 
-25. [**An Evolved Universal Transformer Memory**](https://arxiv.org/abs/2410.13166) _Edoardo Cetin, Qi Sun, Tianyu Zhao, Yujin Tang._ Arxiv 2024.
+25. [**An Evolved Universal Transformer Memory**](https://arxiv.org/abs/2410.13166) _Edoardo Cetin, Qi Sun, Tianyu Zhao, Yujin Tang._ ICLR 2025.
 
-26. [**When Context Leads but Parametric Memory Follows in Large Language Models**](https://arxiv.org/abs/2409.08435) _Yufei Tao, Yujie Qian, Yiming Cui, Wanxiang Che, Ting Liu._ Arxiv 2024.
+26. [**When Context Leads but Parametric Memory Follows in Large Language Models**](https://aclanthology.org/2024.emnlp-main.234.pdf) _Yufei Tao, Yujie Qian, Yiming Cui, Wanxiang Che, Ting Liu._ EMNLP 2024.
 
 
 #### 2.3 Parametric Memory
@@ -229,37 +229,37 @@ If you find our repository and survey useful for your research, please consider 
 
 2. [**Memory-Based Model Editing at Scale**](https://proceedings.mlr.press/v162/mitchell22a/mitchell22a.pdf) _Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning, Chelsea Finn._ ICML 2022.
 
-3. [**Memory-assisted prompt editing to improve GPT-3 after deployment**](https://arxiv.org/abs/2201.06009) _Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang._ Arxiv 2022.
+3. [**Memory-assisted prompt editing to improve GPT-3 after deployment**](https://aclanthology.org/2022.emnlp-main.183/) _Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang._ EMNLP 2022.
 
-4. [**Training Language Models with Memory Augmentation**](https://arxiv.org/abs/2205.12674) _Zexuan Zhong, Tao Lei, Danqi Chen._ Arxiv 2022.
+4. [**Training Language Models with Memory Augmentation**](https://aclanthology.org/2022.emnlp-main.382.pdf) _Zexuan Zhong, Tao Lei, Danqi Chen._ EMNLP 2022.
 
-5. [**Efficient Dialogue State Tracking by Selectively Overwriting Memory**](https://arxiv.org/abs/1911.03906) _Sungdong Kim, Sohee Yang, Gyuwan Kim, Donghyun Kwak, Jonghyuck Park, Jong C. Park._ Arxiv 2019.
+5. [**Efficient Dialogue State Tracking by Selectively Overwriting Memory**](https://aclanthology.org/2020.acl-main.53/) _Sungdong Kim, Sohee Yang, Gyuwan Kim, Sang-Woo Lee._ ACL 2020.
 
-6. [**Mass-Editing Memory with Attention in Transformers: A cross-lingual exploration of knowledge**](https://arxiv.org/abs/2502.02173) _Daniel Tamayo, Aitor Gonzalez-Agirre, Javier Gonzalez, Ander Barrena, Montse Cuadros, German Rigau._ Arxiv 2025.
+6. [**Mass-Editing Memory with Attention in Transformers: A cross-lingual exploration of knowledge**](https://aclanthology.org/2024.findings-acl.347/) _Daniel Tamayo, Aitor Gonzalez-Agirre, Javier Hernando, Marta Villegas._ ACL 2024.
 
-7. [**DSI++: Updating Transformer Memory with New Documents**](https://arxiv.org/abs/2212.09744) _Sanket Vaibhav Mehta, Jai Gupta, Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Jinfeng Rao, Marc Najork, Emma Strubell, Donald Metzler._ Arxiv 2022.
+7. [**DSI++: Updating Transformer Memory with New Documents**](https://aclanthology.org/2023.emnlp-main.510/) _Sanket Vaibhav Mehta, Jai Gupta, Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Jinfeng Rao, Marc Najork, Emma Strubell, Donald Metzler._ EMNLP 2023.
 
-8. [**Memory3: Language Modeling with Explicit Memory**](https://arxiv.org/abs/2407.01178) _Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Junbo Wang, Zeyun Tang, Shibao Song, Chengyang Xu, Yu Yu, Kui Chen, Feiyu Kong, Longpeng Tang, Wenhao Liu._ Arxiv 2024.
+8. [**Memory3: Language Modeling with Explicit Memory**](https://arxiv.org/abs/2407.01178) _Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, Shichao Song, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong, Linpeng Tang, Weinan E._ Arxiv 2024.
 
-9. [**Information-theoretic Online Memory Selection for Continual Learning**](https://arxiv.org/abs/2204.04763) _Shengyang Sun, Daniele Calandriello, Huiyi Hu, Ang Li, Michalis Titsias._ Arxiv 2022.
+9. [**Information-theoretic Online Memory Selection for Continual Learning**](https://arxiv.org/abs/2204.04763) _Shengyang Sun, Daniele Calandriello, Huiyi Hu, Ang Li, Michalis Titsias._ ICLR 2022.
 
-10. [**Improving Task-free Continual Learning by Distributionally Robust Memory Evolution**](https://arxiv.org/abs/2207.07256) _Zhenyi Wang, Li Shen, Le Fang, Qiuling Suo, Tiehang Duan, Mingchen Gao._ Arxiv 2022.
+10. [**Improving Task-free Continual Learning by Distributionally Robust Memory Evolution**](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf) _Zhenyi Wang, Li Shen, Le Fang, Qiuling Suo, Tiehang Duan, Mingchen Gao._ ICML 2022.
 
-11. [**A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm**](https://arxiv.org/abs/2310.12244) _Haizhou Shi, Hao Wang._ Arxiv 2023.
+11. [**A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm**](https://neurips.cc/virtual/2023/poster/72249) _Haizhou Shi, Hao Wang._ NeurIPS 2023.
 
-12. [**Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**](https://arxiv.org/abs/2410.05162) _Yuxiang Wu, Zihan Wang, Yiming Cui, Wanxiang Che, Ting Liu._ Arxiv 2024.
+12. [**Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**](https://aclanthology.org/2024.emnlp-main.943.pdf) _Mehrdad Farahani, Richard Johansson._ EMNLP 2024.
 
-13. [**Sparse Distributed Memory is a Continual Learner**](https://arxiv.org/abs/2303.11934) _Brenton Wiernik, Xander Davies, Deepak Singh, Dmitri Krotov, Gabriel Kreiman._ Arxiv 2023.
+13. [**Sparse Distributed Memory is a Continual Learner**](https://arxiv.org/abs/2303.11934) _Brenton Wiernik, Xander Davies, Deepak Singh, Dmitri Krotov, Gabriel Kreiman._ ICLR 2023.
 
-14. [**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**](https://arxiv.org/abs/2203.11670) _Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, Yinhe Zheng, Dongkyu Lee, Yiping Song, Jian Sun, Nevin L. Zhang._ Arxiv 2022.
+14. [**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**](https://aclanthology.org/2022.acl-long.44/) _Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, Yinhe Zheng, Dongkyu Lee, Yiping Song, Jian Sun, Nevin L. Zhang._ ACL 2022.
 
-15. [**Content Addressable Memory Without Catastrophic Forgetting by Heteroassociation with a Fixed Scaffold**](https://arxiv.org/abs/2202.00159) _Sugandha Sharma, Sarthak Chandra, Ila R. Fiete._ Arxiv 2022.
+15. [**Content Addressable Memory Without Catastrophic Forgetting by Heteroassociation with a Fixed Scaffold**](https://proceedings.mlr.press/v162/sharma22b/sharma22b.pdf) _Sugandha Sharma, Sarthak Chandra, Ila R. Fiete._ ICML 2022.
 
-16. [**Leitner-Guided Memory Replay for Cross-lingual Continual Learning**](https://aclanthology.org/2024.naacl-long.432/) _Meryem M'hamdi, Jonathan May._ Arxiv 2024.
+16. [**Leitner-Guided Memory Replay for Cross-lingual Continual Learning**](https://aclanthology.org/2024.naacl-long.432/) _Meryem M'hamdi, Jonathan May._ NAACL 2024.
 
-17. [**Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning**](https://arxiv.org/abs/2210.08442) _Yejia Liu, Wang Zhu, Shaolei Ren._ Arxiv 2022.
+17. [**Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning**](https://proceedings.neurips.cc/paper_files/paper/2022/file/3013680bf2d072b5f3851aec70b39a59-Paper-Conference.pdf) _Yejia Liu, Wang Zhu, Shaolei Ren._ NeurIPS 2022.
 
-18. [**Transformer as a Hippocampal Memory Consolidation Model Based on NMDAR-Inspired Nonlinearity**](https://arxiv.org/abs/2504.10886) _Jea Kwon, Jaehoon Lee, Donggyu Kim, Yongmin Park, Jongmin Choi._ Arxiv 2025.
+18. [**Transformer as a Hippocampal Memory Consolidation Model Based on NMDAR-Inspired Nonlinearity**](https://papers.nips.cc/paper_files/paper/2023/hash/2f1eb4c897e63870eee9a0a0f7a10332-Abstract-Conference.html) _Dong Kyum Kim, Jea Kwon, Meeyoung Cha, C. Lee._ NeurIPS 2023.
 
 19. [**Mechanisms of Memory Updating: State Dependency vs. Reconsolidation**](https://journalofcognition.org/articles/10.5334/joc.198) _Christopher Kiley, Colleen M. Parks._ Arxiv 2022.
 
@@ -267,13 +267,13 @@ If you find our repository and survey useful for your research, please consider 
 
 21. [**Improving Factuality with Explicit Working Memory**](https://arxiv.org/abs/2412.18069) _Mingda Chen, Yang Li, Karthik Padthe, Rulin Shao, Alicia Sun, Luke Zettlemoyer, Gargi Ghosh, Wen-tau Yih._ Arxiv 2024.
 
-22. [**AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models**](https://arxiv.org/abs/2410.02355) _Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Shi Jie, Xiang Wang, Xiangnan He, Tat-seng Chua_ Arxiv 2025.
+22. [**AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models**](https://arxiv.org/abs/2410.02355) _Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Shi Jie, Xiang Wang, Xiangnan He, Tat-seng Chua_ ICLR 2025.
 
-23. [**Locating and Editing Factual Associations in GPT**](https://arxiv.org/abs/2202.05262) _Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov_ Arxiv 2023.
+23. [**Locating and Editing Factual Associations in GPT**](https://proceedings.neurips.cc/paper_files/paper/2022/file/6f1d43d5a82a37e89b0665b33bf3a182-Paper-Conference.pdf) _Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov_ NeurIPS 2023.
 
-24. [**WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**](https://arxiv.org/abs/2405.14768) _Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen_ Arxiv 2024.
+24. [**WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**](https://arxiv.org/abs/2405.14768) _Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen_ NeurIPS 2024.
 
-25. [**Can We Edit Factual Knowledge by In-Context Learning?**](https://arxiv.org/abs/2305.12740) _Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang_ Arxiv 2023.
+25. [**Can We Edit Factual Knowledge by In-Context Learning?**](https://aclanthology.org/2023.emnlp-main.296.pdf) _Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang_ EMNLP 2023.
 
 26. [**Memory Replay with Data Compression for Continual Learning**](https://arxiv.org/abs/2202.06592) _Liyuan Wang, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu_ Arxiv 2022.
 
@@ -286,35 +286,35 @@ If you find our repository and survey useful for your research, please consider 
 
 1. [**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**](https://arxiv.org/abs/2306.03901) _Chenxu Hu, Jie Yu, Chencheng Dong, Junbo Zhao, Hang Zhao._ Arxiv 2023.
 
-2. [**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**](https://arxiv.org/abs/2410.08143) _Yutong Wang, Jiali Zeng, Xuebo Liu, Derek F. Wong, Fandong Meng, Jie Zhou, Min Zhang._ Arxiv 2024.
+2. [**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**](https://arxiv.org/abs/2410.08143) _Yutong Wang, Jiali Zeng, Xuebo Liu, Derek F. Wong, Fandong Meng, Jie Zhou, Min Zhang._ ICLR 2025.
 
-3. [**An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks**](https://arxiv.org/abs/2210.16773) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2022.
+3. [**An Efficient Memory-Augmented Transformer for Knowledge-Intensive NLP Tasks**](https://aclanthology.org/2022.emnlp-main.346/) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ EMNLP 2022.
 
-4. [**Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models**](https://arxiv.org/abs/2310.15127) _Gabriel Sarch, Yuxiang Wu, Yuqi Xie, Yunfan Jiang, Linxi Fan, Ajay M. Patel, Yuke Zhu, Anima Anandkumar._ Arxiv 2023.
+4. [**Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models**](https://aclanthology.org/2022.emnlp-main.346/) _Gabriel Sarch, Yuxiang Wu, Yuqi Xie, Yunfan Jiang, Linxi Fan, Ajay M. Patel, Yuke Zhu, Anima Anandkumar._ Arxiv 2023.
 
-5. [**Symbolic Working Memory Enhances Language Models for Complex Rule Application**](https://arxiv.org/abs/2408.13654) _Yuxiang Wang, Jingwei Wei, Yicheng Wang, Zheng Zhang, Yuan-Fang Li._ Arxiv 2024.
+5. [**Symbolic Working Memory Enhances Language Models for Complex Rule Application**](https://aclanthology.org/2024.emnlp-main.974/) _Siyuan Wang, Zhongyu Wei, Yejin Choi, Xiang Ren._ EMNLP 2024.
 
-6. [**There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory**](https://arxiv.org/abs/2204.02624) _Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan._ Arxiv 2022.
+6. [**There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory**](https://aclanthology.org/2022.acl-long.270.pdf) _Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan._ ACL 2022.
 
-7. [**Prior Knowledge and Memory Enriched Transformer for Sign Language Translation**](https://aclanthology.org/2022.findings-acl.297/) _Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng._ Arxiv 2022.
+7. [**Prior Knowledge and Memory Enriched Transformer for Sign Language Translation**](https://aclanthology.org/2022.findings-acl.297.pdf) _Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng._ ACL 2022.
 
-8. [**G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks**](https://arxiv.org/abs/2212.03613) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2022.
+8. [**G-MAP: General Memory-Augmented Pre-trained Language Model for Domain Tasks**](https://aclanthology.org/2022.emnlp-main.441/) _Zhongwei Wan, Yichun Yin, Wei Zhang, Jiaxin Shi, Lifeng Shang, Guangyong Chen, Xin Jiang, Qun Liu._ EMNLP 2022.
 
-9. [**Memory Augmented Language Models through Mixture of Word Experts**](https://arxiv.org/abs/2311.10768) _Cicero Nogueira dos Santos, James Lee-Thorp, Isaac Noble, Chung-Ching Chang, David Uthus._ Arxiv 2023.
+9. [**Memory Augmented Language Models through Mixture of Word Experts**](https://aclanthology.org/2024.naacl-long.249.pdf) _Cicero Nogueira dos Santos, James Lee-Thorp, Isaac Noble, Chung-Ching Chang, David Uthus._ NAACL 2024.
 
-10. [**A Cooperative Memory Network for Personalized Task-oriented Dialogue Systems with Incomplete User Profiles**](https://arxiv.org/abs/2102.08322) _Jiahuan Pei, Pengjie Ren, Maarten de Rijke._ Arxiv 2021.
+10. [**A Cooperative Memory Network for Personalized Task-oriented Dialogue Systems with Incomplete User Profiles**](https://dl.acm.org/doi/10.1145/3442381.3449843) _Jiahuan Pei, Pengjie Ren, Maarten de Rijke._ WWW 2021.
 
-11. [**Memory-aligned Knowledge Graph for Clinically Accurate Radiology Image Report Generation**](https://aclanthology.org/2022.bionlp-1.11/) _Sixing Yan._ Arxiv 2022.
+11. [**Memory-aligned Knowledge Graph for Clinically Accurate Radiology Image Report Generation**](https://aclanthology.org/2022.bionlp-1.11/) _Sixing Yan._ BioNLP 2022.
 
-12. [**MATTER: Memory-Augmented Transformer Using Heterogeneous Knowledge Sources**](https://arxiv.org/abs/2406.04670) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2024.
+12. [**MATTER: Memory-Augmented Transformer Using Heterogeneous Knowledge Sources**](https://aclanthology.org/2024.findings-acl.953.pdf) _Dongkyu Lee, Chandana Satya Prakash, Jack FitzGerald, Jens Lehmann._ ACL 2024.
 
-13. [**A Framework for Inference Inspired by Human Memory Mechanisms**](https://arxiv.org/abs/2310.09297) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2023.
+13. [**A Framework for Inference Inspired by Human Memory Mechanisms**](https://arxiv.org/abs/2310.09297) _Xiangyu Zeng, Jie Lin, Piao Hu, Ruizheng Huang, Zhicheng Zhang._ Arxiv 2023.
 
-14. [**M3: 3D-Spatial MultiModal Memory**](https://arxiv.org/abs/2503.16413) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2025.
+14. [**M3: 3D-Spatial MultiModal Memory**](https://arxiv.org/abs/2503.16413) _Xueyan Zou, Yuchen Song, Ri-Zhao Qiu, Xuanbin Peng, Jianglong Ye, Sifei Liu, Xiaolong Wang._ ICLR 2025.
 
-15. [**Learning Multimodal Contrast with Cross-modal Memory and Reinforced Contrast Recognition**](https://arxiv.org/abs/2404.00925) _Yuanhe Tian, Fei Xia, Yan Song._ Arxiv 2024.
+15. [**Learning Multimodal Contrast with Cross-modal Memory and Reinforced Contrast Recognition**](https://aclanthology.org/2024.findings-acl.391/) _Yuanhe Tian, Fei Xia, Yan Song._ ACL 2024.
 
-16. [**Stable Hadamard Memory: Revitalizing Memory-Augmented Agents for Reinforcement Learning**](https://arxiv.org/abs/2401.08523) _Yuxiang Wu, Yu Zhao, Baotian Hu, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel._ Arxiv 2024.
+16. [**Stable Hadamard Memory: Revitalizing Memory-Augmented Agents for Reinforcement Learning**](https://arxiv.org/abs/2401.08523) _Hung Le, Dung Nguyen, Kien Do, Sunil Gupta, Svetha Venkatesh._ ICLR 2025.
 
 17. [**Moviechat+: Question-aware sparse memory for long video question answering**](https://arxiv.org/abs/2404.17176) Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang. _ Arxiv 2024.
 
