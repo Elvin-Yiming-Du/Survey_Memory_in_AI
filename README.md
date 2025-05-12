@@ -44,12 +44,12 @@ If you find our repository and survey useful for your research, please consider 
   - [📢 News](#-news)
     - [Week Papers](#week-papers)
   - [📜 Papers](#-papers)
-    - [1. Survey Papers](#1-survey-papers)
+    - [1. Survey Papers (bib file)](#1-survey-papers-bib-file)
     - [2. Memory Topics](#2-memory-topics)
-      - [2.1 Long Term Memory](#21-long-term-memory)
-      - [2.2 Long Context Memory](#22-long-context-memory)
-      - [2.3 Parametric Memory](#23-parametric-memory)
-      - [2.4 Multi-source Memory](#24-multi-source-memory)
+      - [2.1 Long Term Memory (bib file)](#21-long-term-memory-bib-file)
+      - [2.2 Long Context Memory (bib file)](#22-long-context-memory-bib-file)
+      - [2.3 Parametric Memory (bib file)](#23-parametric-memory-bib-file)
+      - [2.4 Multi-source Memory (bib file)](#24-multi-source-memory-bib-file)
   - [📊 Datasets](#-datasets)
     - [Evaluation for Long Term Memroy.](#evaluation-for-long-term-memroy)
     - [Evaluation for Long Context Memory](#evaluation-for-long-context-memory)
@@ -80,7 +80,7 @@ If you find our repository and survey useful for your research, please consider 
 
 ## 📜 Papers
 
-### 1. Survey Papers
+### 1. Survey Papers ([bib file](bib/survey_papers.bib))
 
 1. [**A Survey on the Memory Mechanism of Large Language Model based Agents.**](https://arxiv.org/abs/2404.13501) _Zhang, Zeyu and Bo, Xiaohe and Ma, Chen and Li, Rui and Chen, Xu and Dai, Quanyu and Zhu, Jieming and Dong, Zhenhua and Wen, Ji-Rong._ Arxiv 2024.
 
@@ -104,7 +104,7 @@ If you find our repository and survey useful for your research, please consider 
 
 ### 2. Memory Topics
 
-#### 2.1 Long Term Memory
+#### 2.1 Long Term Memory ([bib file](bib/long-term_memory.bib))
 
 1. [**Evaluating Very Long-Term Conversational Memory of LLM Agents**](https://aclanthology.org/2024.acl-long.747.pdf)_Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang._ ACL 2024.
 
@@ -180,7 +180,7 @@ If you find our repository and survey useful for your research, please consider 
 
 37. [**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**](https://arxiv.org/abs/2502.14802) _Bernal Jiménez Gutiérrez, Yiheng Shu, Weijian Qi, Sizhe Zhou, Yu Su._ ICML 2025.
 
-#### 2.2 Long Context Memory
+#### 2.2 Long Context Memory ([bib file](bib/long-term_memory.bib))
 
 1. [**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**](https://aclanthology.org/P15-1150/) _Kai Sheng Tai, Richard Socher, Christopher D. Manning._ ACL 2015.
 
@@ -234,7 +234,7 @@ If you find our repository and survey useful for your research, please consider 
 
 26. [**When Context Leads but Parametric Memory Follows in Large Language Models**](https://aclanthology.org/2024.emnlp-main.234.pdf) _Yufei Tao, Yujie Qian, Yiming Cui, Wanxiang Che, Ting Liu._ EMNLP 2024.
 
-#### 2.3 Parametric Memory
+#### 2.3 Parametric Memory ([bib file](bib/parametric_memory.bib))
 
 1. [**Mass-Editing Memory in a Transformer**](https://iclr.cc/virtual/2023/poster/11880) _Kevin Meng, Arnab Sen Sharma, Alex Andonian, Yonatan Belinkov, David Bau._ ICLR 2023.
 
@@ -292,7 +292,7 @@ If you find our repository and survey useful for your research, please consider 
 
 28. [**PaLM-E: An Embodied Multimodal Language Model**](https://proceedings.mlr.press/v202/driess23a/driess23a.pdf) _Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence_ ICML 2023.
 
-#### 2.4 Multi-source Memory
+#### 2.4 Multi-source Memory ([bib file](bib/multi-source_memory.bib))
 
 1. [**ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory**](https://arxiv.org/abs/2306.03901) _Chenxu Hu, Jie Yu, Chencheng Dong, Junbo Zhao, Hang Zhao._ Arxiv 2023.
 
