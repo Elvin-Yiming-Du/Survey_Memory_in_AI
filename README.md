@@ -248,57 +248,147 @@ If you find our repository and survey useful for your research, please consider 
 
 #### 2.2 Long Context Memory
 
-1. [**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**](https://aclanthology.org/P15-1150/) _Kai Sheng Tai, Richard Socher, Christopher D. Manning._ ACL 2015.
+1. [**Efficient Streaming Language Models with Attention Sinks**](https://iclr.cc/virtual/2024/poster/18794) _Guangxuan Xiao, Yuandong Tian, Beidi Chen, Song Han, Mike Lewis._ ICLR 2024.
 
-2. [**Walking Down the Memory Maze: Beyond Context Limit through Interactive Reading**](https://arxiv.org/abs/2310.05029) _Howard Chen, Ramakanth Pasunuru, Jason Weston, Asli Celikyilmaz._ Arxiv 2023.
+1. [**LM-Infinite: Zero-Shot Extreme Length Generalization for Large Language Models**](https://aclanthology.org/2024.naacl-long.222.pdf) _Chi Han, Qifan Wang, Hao Peng, Wenhan Xiong, Yu Chen, Heng Ji, Sinong Wang._ NAACL 2024.
 
-3. [**CaM: Cache Merging for Memory-efficient LLMs Inference**](https://proceedings.mlr.press/v235/zhang24n.html) _Yuxin Zhang, Yuxuan Du, Gen Luo, Yunshan Zhong, Zhenyu Zhang, Shiwei Liu, Rongrong Ji._ Arxiv 2024.
+1. [**Layer-Condensed KV Cache for Efficient Inference of Large Language Models**](https://aclanthology.org/2024.acl-long.602.pdf) _Haoyi Wu, Kewei Tu._ ACL 2024.
 
-4. [**Recurrent Memory Transformer**](https://arxiv.org/abs/2207.06881) _Aydar Bulatov, Sergey I. Nikolenko, Artem Babenko._ Arxiv 2022.
+1. [**H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models**](https://papers.nips.cc/paper_files/paper/2023/file/6ceefa7b15572587b78ecfcebb2827f8-Paper-Conference.pdf) _Zhenyu Zhang, Ying Sheng, Tianyi Zhou, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang "Atlas" Wang, Beidi Chen._ NeurIPS 2023.
 
-5. [**InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory**](https://icml.cc/virtual/2024/39062) _Chaojun Xiao, Pengle Zhang, Xu Han, Guangxuan Xiao, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun._ ICML 2024.
+1. [**Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs**](https://openreview.net/pdf?id=uNrFpDPMyo) _Suyu Ge, Yunan Zhang, Liyuan Liu, Minjia Zhang, Jiawei Han, Jianfeng Gao._ ICLR 2024.
 
-6. [**A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts**](https://dl.acm.org/doi/10.5555/3692070.3693124) _Xinyun Chen, Hiroki Furuta, John Canny, Ian Tenney._ ICML 2024.
+1. [**Radar: Fast Long-Context Decoding for Any Transformer**](https://openreview.net/pdf?id=ZTpWOwMrzQ) _Yongchang Hao, Mengyao Zhai, Hossein Hajimirsadeghi, Sepidehsadat Hosseini, Frederick Tung._ ICLR 2025.
 
-7. [**Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control**](https://arxiv.org/abs/2306.07863) _Longtao Zheng, Rundong Wang, Xinrun Wang, Bo An._ ICLR 2024.
+1. [**NACL: A General and Effective KV Cache Eviction Framework for LLM at Inference Time**](https://aclanthology.org/2024.acl-long.428.pdf) _Yilong Chen, Guoxia Wang, Junyuan Shang, Shiyao Cui, Zhenyu Zhang, Tingwen Liu, Shuohuan Wang, Yu Sun, Dianhai Yu, Hua Wu._ ACL 2024.
 
-8. [**Mastering Memory Tasks with World Models**](https://arxiv.org/abs/2403.04253) _Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar._ ICLR 2024.
+1. [**SnapKV: LLM Knows What You Are Looking for before Generation**](https://proceedings.neurips.cc/paper_files/paper/2024/file/28ab418242603e0f7323e54185d19bde-Paper-Conference.pdf) _Yuhong Li, Yingbing Huang, Bowen Yang, Bharat Venkitesh, Acyr Locatelli, Hanchen Ye, Tianle Cai, Patrick Lewis, Deming Chen._ NeurIPS 2024.
 
-9. [**Memory Consolidation Enables Long-Context Video Understanding**](https://proceedings.mlr.press/v235/balazevic24a.html) _Ivana Balazevic, Yuki M. Asano, Andreas Kirsch, Andrew Zisserman._ ICML 2024.
+1. [**Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning**](https://openreview.net/pdf?id=FJFVmeXusW) _Yu Fu, Zefan Cai, Abedelkadir Asi, Wayne Xiong, Yue Dong, Wen Xiao._ ICLR 2025.
 
-10. [**Online Adaptation of Language Models with a Memory of Amortized Contexts**](https://proceedings.neurips.cc/paper_files/paper/2024/file/eaf956b52bae51fbf387b8be4cc3ce18-Paper-Conference.pdf) _Yongqiang Tack, Seonghyeon Ye, Sangwoo Mo, Jung-Woo Ha, Sung Ju Hwang._ NeurIPS 2024.
+1. [**Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time**](https://proceedings.neurips.cc/paper_files/paper/2023/file/a452a7c6c463e4ae8fbdc614c6e983e6-Paper-Conference.pdf) _Zichang Liu, Aditya Desai, Fangshuo Liao, Weitao Wang, Victor Xie, Zhaozhuo Xu, Anastasios Kyrillidis, Anshumali Shrivastava._ NeurIPS 2023.
 
-11. [**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**](https://aclanthology.org/2024.emnlp-main.897.pdf) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ EMNLP 2024.
+1. [**PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference**](https://aclanthology.org/2024.findings-acl.195.pdf) _Dongjie Yang, Xiaodong Han, Yan Gao, Yao Hu, Shilin Zhang, Hai Zhao._ ACL 2024.
 
-12. [**B'MOJO: Hybrid State Space Realizations of Foundation Models with Eidetic and Fading Memory**](https://neurips.cc/virtual/2024/poster/95153) _Luca Zancato, Arjun Seshadri, Yonatan Dukler, Aditya Golatkar, Yantao Shen, Benjamin Bowman, Matthew Trager, Alessandro Achille, Stefano Soatto._ NeurIPS 2024.
+1. [**A Simple and Effective L_2 Norm-Based Strategy for KV Cache Compression**](https://aclanthology.org/2024.emnlp-main.1027.pdf) _Alessio Devoto, Yu Zhao, Simone Scardapane, Pasquale Minervini._ EMNLP 2024.
 
-13. [**Needle in the Haystack for Memory Based Large Language Models**](https://icml.cc/virtual/2024/36123) _Elliot Nelson, Georgios Kollias, Payel Das, Subhajit Chaudhury, Soham Dan._ ICML 2024.
+1. [**SirLLM: Streaming Infinite Retentive LLM**](https://aclanthology.org/2024.acl-long.143.pdf) _Yao Yao, Zuchao Li, Hai Zhao._ ACL 2024.
 
-14. [**Memorize Step by Step: Efficient Long-Context Prefilling with Incremental Memory and Decremental Chunk**](https://aclanthology.org/2024.emnlp-main.1169/) _Zhiyuan Zeng, Qipeng Guo, Xiaoran Liu, Zhangyue Yin, Wentao Shu, Mianqiu Huang, Bo Wang, Yunhua Zhou, Linlin Li, Qun Liu, Xipeng Qiu._ EMNLP 2024.
+1. [**D-LLM: A Token Adaptive Computing Resource Allocation Strategy for Large Language Models**](https://proceedings.neurips.cc/paper_files/paper/2024/file/03469b1a66e351b18272be23baf3b809-Paper-Conference.pdf) _Yikun Jiang, Huanyu Wang, Lei Xie, Hanbin Zhao, Chao Zhang, Hui Qian, John C.S. Lui._ NeurIPS 2024.
 
-15. [**Memory Layers at Scale**](https://arxiv.org/abs/2412.09764) _Vincent-Pierre Berges, Barlas Oğuz, Daniel Haziza, Wen-tau Yih, Luke Zettlemoyer, Gargi Ghosh._ Arxiv 2024.
+1. [**MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**](https://proceedings.neurips.cc/paper_files/paper/2024/file/fd0705710bf01b88a60a3d479ea341d9-Paper-Conference.pdf) _Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang._ NeurIPS 2024.
 
-16. [**Memory Injections: Correcting Multi-Hop Reasoning Failures During Inference in Transformer-Based Language Models**](https://aclanthology.org/2023.blackboxnlp-1.26/) _Mansi Sakarvadia, Aswathy Ajith, Arham Khan, Daniel Grzenda, Nathaniel Hudson, André Bauer, Kyle Chard, Ian Foster._ Arxiv 2023.
+1. [**InfiniPot: Infinite Context Processing on Memory-Constrained LLMs**](https://aclanthology.org/2024.emnlp-main.897.pdf) _Minsoo Kim, Kyuhong Shim, Jungwook Choi, Simyung Chang._ EMNLP 2024.
 
-17. [**When Compression Meets Model Compression: Memory-Efficient Double Compression for Large Language Models**](https://aclanthology.org/2024.findings-emnlp.988/) _Weilan Wang, Yu Mao, Tang Dongdong, Du Hongchao, Nan Guan, Chun Jason Xue._ EMNLP 2024.
+1. [**CHAI: Clustered Head Attention for Efficient LLM Inference**](https://openreview.net/pdf?id=xcDRx8vzCa) _Saurabh Agarwal, Bilge Acun, Basil Hosmer, Mostafa Elhoushi, Yejin Lee, Shivaram Venkataraman, Dimitris Papailiopoulos, Carole-Jean Wu._ ICML 2024.
 
-18. [**MELODI: Exploring Memory Compression for Long Contexts**](https://arxiv.org/abs/2410.03156) _Yinpeng Chen, DeLesley Hutchins, Aren Jansen, Andrey Zhmoginov, David Racz, Jesper Andersen._ ICLP 2025.
+1. [**Long Context Compression with Activation Beacon**](https://openreview.net/pdf?id=1eQT9OzfNQ) _Peitian Zhang, Zheng Liu, Shitao Xiao, Ninglu Shao, Qiwei Ye, Zhicheng Dou._ ICLR 2025.
 
-19. [**Transformer Working Memory Enables Regular Language Reasoning and Natural Language Length Extrapolation**](https://aclanthology.org/2023.findings-emnlp.397/) _Ta-Chung Chi, Ting-Han Fan, Alexander Rudnicky, Peter Ramadge._ EMNLP 2023.
+1. [**KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization**](https://proceedings.neurips.cc/paper_files/paper/2024/file/028fcbcf85435d39a40c4d61b42c99a4-Paper-Conference.pdf) _Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami._ NeurIPS 2024.
 
-20. [**Mini-Sequence Transformers: Optimizing Intermediate Memory for Long Sequences Training**](https://neurips.cc/virtual/2024/poster/96824) _Cheng Luo, Jiawei Zhao, Zhuoming Chen, Beidi Chen, Anima Anandkumar._ NeurIPS 2024.
+1. [**FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU**](https://arxiv.org/pdf/2303.06865) _Ying Sheng, Lianmin Zheng, Binhang Yuan, Zhuohan Li, Max Ryabinin, Daniel Y. Fu, Zhiqiang Xie, Beidi Chen, Clark Barrett, Joseph E. Gonzalez, Percy Liang, Christopher Ré, Ion Stoica, Ce Zhang._ ICML 2023.
 
-21. [**Learn To Remember: Transformer with Recurrent Memory for Document-Level Machine Translation**](https://aclanthology.org/2022.findings-naacl.105/) _Yukun Feng, Feng Li, Ziang Song, Boyuan Zheng, Philipp Koehn._ NAACL 2022.
+1. [**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**](https://openreview.net/pdf?id=uhHDhVKFMW) _Harry Dong, Xinyu Yang, Zhenyu Zhang, Zhangyang Wang, Yuejie Chi, Beidi Chen._ ICML 2024.
 
-22. [**Linearizing Transformer with Key-Value Memory**](https://aclanthology.org/2022.emnlp-main.24.pdf) _Yizhe Zhang, Deng Cai._ EMNLP 2022.
+1. [**Eigen Attention: Attention in Low-Rank Space for KV Cache Compression**](https://aclanthology.org/2024.findings-emnlp.899.pdf) _Utkarsh Saxena, Gobinda Saha, Sakshi Choudhary, Kaushik Roy._ EMNLP 2024.
 
-23. [**A Memory Model for Question Answering from Streaming Data Supported by Rehearsal and Anticipation of Coreference Information**](https://aclanthology.org/2023.findings-acl.830/) _Vladimir Araujo, Alvaro Soto, Marie-Francine Moens._ ACL 2023.
+1. [**CHAI: Clustered Head Attention for Efficient LLM Inference**](https://openreview.net/pdf?id=xcDRx8vzCa) _Saurabh Agarwal, Bilge Acun, Basil Hosmer, Mostafa Elhoushi, Yejin Lee, Shivaram Venkataraman, Dimitris Papailiopoulos, Carole-Jean Wu._ ICML 2024.
 
-24. [**LaMemo: Language Modeling with Look-Ahead Memory**](https://aclanthology.org/2022.naacl-main.422/) _Haoze Ji, Rongcheng Zhang, Zheyang Yang, Zheng Hu, Minlie Huang._ NAACL 2022.
+1. [**Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5edb57c05c81d04beb716ef1d542fe9e-Paper-Conference.pdf) _Yilong Zhao, Chien-Yu Lin, Kan Zhu, Zihao Ye, Lequn Chen, Size Zheng, Luis Ceze, Arvind Krishnamurthy, Tianqi Chen, Baris Kasikci._ MLSys 2024.
 
-25. [**An Evolved Universal Transformer Memory**](https://arxiv.org/abs/2410.13166) _Edoardo Cetin, Qi Sun, Tianyu Zhao, Yujin Tang._ ICLR 2025.
+1. [**ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification**](https://proceedings.neurips.cc/paper_files/paper/2024/file/7e57131fdeb815764434b65162c88895-Paper-Conference.pdf) _Yefei He, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang._ NeurIPS 2024.
 
-26. [**When Context Leads but Parametric Memory Follows in Large Language Models**](https://aclanthology.org/2024.emnlp-main.234.pdf) _Yufei Tao, Yujie Qian, Yiming Cui, Wanxiang Che, Ting Liu._ EMNLP 2024.
+1. [**KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache**](https://openreview.net/pdf?id=L057s2Rq8O) _Zirui Liu, Jiayi Yuan, Hongye Jin, Shaochen Zhong, Zhaozhuo Xu, Vladimir Braverman, Beidi Chen, Xia Hu._ ICML 2024.
+
+1. [**QUEST: Query-Aware Sparsity for Efficient Long-Context LLM Inference**](https://openreview.net/pdf?id=KzACYw0MTV) _Jiaming Tang, Yilong Zhao, Kan Zhu, Guangxuan Xiao, Baris Kasikci, Song Han._ ICML 2024.
+
+1. [**TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection**](https://arxiv.org/pdf/2411.02886) _Wei Wu, Zhuoshi Pan, Chao Wang, Liyi Chen, Yunchu Bai, Tianfu Wang, Kun Fu, Zheng Wang, Hui Xiong._ Arxiv 2024.
+
+1. [**Selective Attention Improves Transformer**](https://openreview.net/pdf?id=v0FzmPCd1e) _Yaniv Leviathan, Matan Kalman, Yossi Matias._ ICLR 2025.
+
+1. [**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**](https://arxiv.org/pdf/2409.10516) _Di Liu, Meng Chen, Baotong Lu, Huiqiang Jiang, Zhenhua Han, Qianxi Zhang, Qi Chen, Chengruidong Zhang, Bailu Ding, Kai Zhang, Chen Chen, Fan Yang, Yuqing Yang, Lili Qiu._ Arxiv 2024.
+
+1. [**Memorizing Transformers**](https://openreview.net/pdf?id=TrjbxzRcnf-) _Yuhuai Wu, Markus Norman Rabe, DeLesley Hutchins, Christian Szegedy._ ICLR 2022.
+
+1. [**Focused Transformer: Contrastive Training for Context Scaling**](https://proceedings.neurips.cc/paper_files/paper/2023/file/8511d06d5590f4bda24d42087802cc81-Paper-Conference.pdf) _Szymon Tworkowski, Konrad Staniszewski, Mikołaj Pacek, Yuhuai Wu, Henryk Michalewski, Piotr Miłoś._ NeurIPS 2023.
+
+1. [**Streaming Video Question-Answering with In-context Video KV-Cache Retrieval**](https://openreview.net/pdf?id=8g9fs6mdEG) _Shangzhe Di, Zhelun Yu, Guanghao Zhang, Haoyuan Li, TaoZhong, Hao Cheng, Bolin Li, Wanggui He, Fangxun Shu, Hao Jiang._ ICLR 2025.
+
+1. [**ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction**](https://proceedings.neurips.cc/paper_files/paper/2024/file/cd4b49379efac6e84186a3ffce108c37-Paper-Conference.pdf) _Renze Chen, Zhuofeng Wang, Beiquan Cao, Tong Wu, Size Zheng, Xiuhong Li, Xuechao Wei, Shengen Yan, Meng Li, Yun Liang._ NeurIPS 2024.
+
+1. [**Capturing Global Structural Information in Long Document Question Answering with Compressive Graph Selector Network**](https://aclanthology.org/2022.emnlp-main.336.pdf) _Yuxiang Nie, Heyan Huang, Wei Wei, Xian-Ling Mao._ EMNLP 2022.
+
+1. [**GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**](https://aclanthology.org/2024.findings-emnlp.746.pdf) _Shilong Li, Yancheng He, Hangyu Guo, Xingyuan Bu, Ge Bai, Jie Liu, Jiaheng Liu, Xingwei Qu, Yangguang Li, Wanli Ouyang, Wenbo Su, Bo Zheng._ EMNLP 2024.
+
+1. [**TRAMS: Training-free Memory Selection for Long-range Language Modeling**](https://aclanthology.org/2023.findings-emnlp.331.pdf) _Haofei Yu, Cunxiang Wang, Yue Zhang, Wei Bi._ EMNLP 2023.
+
+1. [**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**](https://aclanthology.org/2024.findings-emnlp.646v2.pdf) _Tsz Ting Chung, Leyang Cui, Lemao Liu, Xinting Huang, Shuming Shi, Dit-Yan Yeung._ EMNLP 2024.
+
+1. [**Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs**](https://openreview.net/pdf?id=xZDWO0oejD) _Qingru Zhang, Chandan Singh, Liyuan Liu, Xiaodong Liu, Bin Yu, Jianfeng Gao, Tuo Zhao._ ICLR 2024.
+
+1. [**Naive Bayes-based Context Extension for Large Language Models**](https://aclanthology.org/2024.naacl-long.431.pdf) _Jianlin Su, Murtadha Ahmed, Bo Wen, Luo Ao, Mingren Zhu, Yunfeng Liu._ NAACL 2024.
+
+1. [**FragRel: Exploiting Fragment-level Relations in the External Memory of Large Language Models**](https://aclanthology.org/2024.findings-acl.968.pdf) _Xihang Yue, Linchao Zhu, Yi Yang._ ACL 2024.
+
+1. [**Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection**](https://openreview.net/pdf?id=HE6pJoNnFp) _Yun Zhu, Jia-Chen Gu, Caitlin Sikora, Ho Ko, Yinxiao Liu, Chu-Cheng Lin, Lei Shu, Liangchen Luo, Lei Meng, Bang Liu, Jindong Chen._ ICLR 2025.
+
+1. [**Never Lost in the Middle: Mastering Long-Context Question Answering with Position-Agnostic Decompositional Training**](https://aclanthology.org/2024.acl-long.736.pdf) _Junqing He, Kunhao Pan, Xiaoqun Dong, Zhuoyang Song, LiuYiBo LiuYiBo, Qianguosun Qianguosun, Yuxin Liang, Hao Wang, Enming Zhang, Jiaxing Zhang._ ACL 2024.
+
+1. [**Make Your LLM Fully Utilize the Context**](https://proceedings.neurips.cc/paper_files/paper/2024/file/71c3451f6cd6a4f82bb822db25cea4fd-Paper-Conference.pdf) _Shengnan An, Zexiong Ma, Zeqi Lin, Nanning Zheng, Jian-Guang Lou._ NeurIPS 2024.
+
+1. [**MemGPT: Towards LLMs as Operating Systems**](https://arxiv.org/pdf/2310.08560) _Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir G. Patil, Ion Stoica, Joseph E. Gonzalez._ Arxiv 2023.
+
+1. [**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**](https://aclanthology.org/2024.naacl-long.50.pdf) _Ali Safaya, Deniz Yuret._ NAACL 2024.
+
+1. [**AWESOME: GPU Memory-constrained Long Document Summarization using Memory Mechanism and Global Salient Content**](https://aclanthology.org/2024.naacl-long.330.pdf) _Shuyang Cao, Lu Wang._ NAACL 2024.
+
+1. [**Adapting Language Models to Compress Contexts**](https://aclanthology.org/2023.emnlp-main.232.pdf) _Alexis Chevalier, Alexander Wettig, Anirudh Ajith, Danqi Chen._ EMNLP 2023.
+
+1. [**xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token**](https://openreview.net/pdf?id=6pTlXqrO0p) _Xin Cheng, Xun Wang, Xingxing Zhang, Tao Ge, Si-Qing Chen, Furu Wei, Huishuai Zhang, Dongyan Zhao._ NeurIPS 2024.
+
+1. [**Long-Context Language Modeling with Parallel Context Encoding**](https://aclanthology.org/2024.acl-long.142.pdf) _Howard Yen, Tianyu Gao, Danqi Chen._ ACL 2024.
+
+1. [**You Only Read Once (YORO): Learning to Internalize Database Knowledge for Text-to-SQL**](https://aclanthology.org/2025.naacl-long.94.pdf) _Hideo Kobayashi, Wuwei Lan, Peng Shi, Shuaichen Chang, Jiang Guo, Henghui Zhu, Zhiguo Wang, Patrick Ng._ NAACL 2025.
+
+1. [**Compressing Context to Enhance Inference Efficiency of Large Language Models**](https://aclanthology.org/2023.emnlp-main.391.pdf) _Yucheng Li, Bo Dong, Frank Guerin, Chenghua Lin._ EMNLP 2023.
+
+1. [**Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs**](https://openreview.net/pdf?id=ulaUJFd96G) _Woomin Song, Seunghyuk Oh, Sangwoo Mo, Jaehyung Kim, Sukmin Yun, Jung-Woo Ha, Jinwoo Shin._ ICLR 2024.
+
+1. [**Extending Context Window of Large Language Models via Semantic Compression**](https://aclanthology.org/2024.findings-acl.306.pdf) _Weizhi Fei, Xueyan Niu, Pingyi Zhou, Lu Hou, Bo Bai, Lei Deng, Wei Han._ ACL 2024.
+
+1. [**RECOMP: Improving Retrieval-Augmented LMs with Context Compression and Selective Augmentation**](https://openreview.net/pdf?id=mlJLVigNHp) _Fangyuan Xu, Weijia Shi, Eunsol Choi._ ICLR 2024.
+
+1. [**CompAct: Compressing Retrieved Documents Actively for Question Answering**](https://aclanthology.org/2024.emnlp-main.1194.pdf) _Chanwoong Yoon, Taewhoo Lee, Hyeon Hwang, Minbyul Jeong, Jaewoo Kang._ EMNLP 2024.
+
+1. [**Learning to Compress Prompt in Natural Language Formats**](https://aclanthology.org/2024.naacl-long.429.pdf) _Yu-Neng Chuang, Tianwei Xing, Chia-Yuan Chang, Zirui Liu, Xun Chen, Xia Hu._ NAACL 2024.
+
+1. [**LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models**](https://aclanthology.org/2023.emnlp-main.825.pdf) _Huiqiang Jiang, Qianhui Wu, Chin-Yew Lin, Yuqing Yang, Lili Qiu._ EMNLP 2023.
+
+1. [**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression**](https://aclanthology.org/2024.acl-long.91.pdf) _Huiqiang Jiang, Qianhui Wu, Xufang Luo, Dongsheng Li, Chin-Yew Lin, Yuqing Yang, Lili Qiu._ ACL 2024.
+
+1. [**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**](https://aclanthology.org/2024.findings-acl.57.pdf) _Zhuoshi Pan, Qianhui Wu, Huiqiang Jiang, Menglin Xia, Xufang Luo, Jue Zhang, Qingwei Lin, Victor Rühle, Yuqing Yang, Chin-Yew Lin, H. Vicky Zhao, Lili Qiu, Dongmei Zhang._ ACL 2024.
+
+1. [**TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction**](https://aclanthology.org/2023.findings-emnlp.655.pdf) _Junyi Liu, Liangzhi Li, Tong Xiang, Bowen Wang, Yiming Qian._ EMNLP 2023.
+
+1. [**LongNet: Scaling Transformers to 1,000,000,000 Tokens**](https://arxiv.org/pdf/2307.02486) _Jiayu Ding, Shuming Ma, Li Dong, Xingxing Zhang, Shaohan Huang, Wenhui Wang, Nanning Zheng, Furu Wei._ Arxiv 2023.
+
+1. [**LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens**](https://openreview.net/pdf?id=ONOtpXLqqw) _Yiran Ding, Li Lyna Zhang, Chengruidong Zhang, Yuanyuan Xu, Ning Shang, Jiahang Xu, Fan Yang, Mao Yang._ ICML 2024.
+
+1. [**Lost in the Middle: How Language Models Use Long Contexts**](https://aclanthology.org/2024.tacl-1.9.pdf) _Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang._ TACL 2024.
+
+1. [**On Context Utilization in Summarization with Large Language Models**](https://aclanthology.org/2024.acl-long.153.pdf) _Mathieu Ravaut, Aixin Sun, Nancy Chen, Shafiq Joty._ ACL 2024.
+
+1. [**MMLongBench: Benchmarking Long-Context Vision-Language Models Effectively and Thoroughly**](https://arxiv.org/pdf/2505.10610) _Zhaowei Wang, Wenhao Yu, Xiyu Ren, Jipeng Zhang, Yu Zhao, Rohit Saxena, Liang Cheng, Ginny Wong, Simon See, Pasquale Minervini, Yangqiu Song, Mark Steedman._ Arxiv 2025.
+
+1. [**Masking in Multi-hop QA: An Analysis of How Language Models Perform with Context Permutation**](https://arxiv.org/pdf/2505.11754) _Wenyu Huang, Pavlos Vougiouklis, Mirella Lapata, Jeff Z. Pan._ ACL 2025.
+
+1. [**Large Language Models Can Be Easily Distracted by Irrelevant Context**](https://openreview.net/pdf?id=JSZmoN03Op) _Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed H. Chi, Nathanael Schärli, Denny Zhou._ ICML 2023.
+
+1. [**Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG**](https://openreview.net/pdf?id=oU3tpaR8fm) _Bowen Jin, Jinsung Yoon, Jiawei Han, Sercan O Arik._ ICLR 2025.
+
+1. [**KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches**](https://aclanthology.org/2024.findings-emnlp.266.pdf) _Jiayi Yuan, Hongyi Liu, Shaochen Zhong, Yu-Neng Chuang, Songchen Li, Guanchu Wang, Duy Le, Hongye Jin, Vipin Chaudhary, Zhaozhuo Xu, Zirui Liu, Xia Hu._ EMNLP 2024.
+
+1. [**Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach**](https://aclanthology.org/2024.emnlp-industry.66.pdf) _Zhuowan Li, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Michael Bendersky._ EMNLP 2024.
 
 #### 2.3 Parametric Memory
 
@@ -467,6 +557,10 @@ If you find our repository and survey useful for your research, please consider 
 | [**L-Eval**](https://github.com/OpenLMLab/LEval)                                      | text              | compression, retrieval | Rouge-L, F1, GPT4                     | 20-subtask benchmark for diverse long-context language model evaluation      | 2023     |
 | [**LongBench**](https://github.com/THUDM/LongBench/tree/main/LongBench)               | text              | compression, retrieval | F1, Rouge-L, Accuracy, EM, Edit Sim   | 14 English, 5 Chinese, 2 code tasks for long-context evaluation              | 2023     |
 | [**LongBench v2**](https://github.com/THUDM/LongBench/)                               | text + table + KG | compression, retrieval | Acc                                   | Longer, more challenging tasks with consistent multi-choice format           | 2024     |
+| [**SWE-bench**](https://www.swebench.com/)                               | text | compression, retrieval | Resolution rate (%Resolved)                                   |  2,294 task instances from 12 popular python repositories from GitHub           | 2023     |
+| [**SWE-bench Multimodal**](https://www.swebench.com/multimodal.html/)                               | text + image | compression, retrieval | Resolution rate (%Resolved), Inference cost (Avg. $ Cost)                                  |  Extending the original benchmark with image modal with 517 task instances           | 2024     |
+| [**$\infty$Bench**](https://github.com/OpenBMB/InfiniteBench/)                               | text | compression, retrieval | F1, Acc, ROUGE-L-Sum                                  |  12 sub-tasks specially designed for evaluating extreme long context language models           | 2024     |
+| [**LooGLE**](https://github.com/bigai-nlco/LooGLE/)                               | text | compression, retrieval | Bleu-1, Bleu-4, Rouge-1, Rouge-4, Rouge-L, Meteor score, Bert score, GPT4 score                                  |  7 major tasks specially designed for evaluating extreme long context language models           | 2023     |
 
 ### Paramatric Memory Modification
 
