@@ -180,6 +180,72 @@ If you find our repository and survey useful for your research, please consider 
 
 37. [**From RAG to Memory: Non-Parametric Continual Learning for Large Language Models**](https://arxiv.org/abs/2502.14802) _Bernal Jiménez Gutiérrez, Yiheng Shu, Weijian Qi, Sizhe Zhou, Yu Su._ ICML 2025.
 
+38. [**Who's Harry Potter? Approximate Unlearning in LLMs**](https://arxiv.org/abs/2310.02238) _Ronen Eldan, Mark Russinovich._ Arxiv 2023.
+
+39. [**Active Retrieval Augmented Generation**](https://aclanthology.org/2023.emnlp-main.495/) _Zhengbao Jiang, Frank Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, Graham Neubig._ EMNLP 2023.
+
+40. [**lamp: when large language models meet personalization**](https://aclanthology.org/2024.acl-long.399.pdf) _Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani._ ACL 2024.
+
+41. [**Disentangling Memory and Reasoning Ability in Large Language Models**](https://arxiv.org/abs/2411.13504) _Mingyu Jin, Weidi Luo, Sitao Cheng, Xinyi Wang, Wenyue Hua, Ruixiang Tang, William Yang Wang, Yongfeng Zhang._ Arxiv 2025.
+
+42. [**MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation**](https://arxiv.org/abs/2409.05591) _Hongjin Qian, Zheng Liu, Peitian Zhang, Kelong Mao, Defu Lian, Zhicheng Dou, Tiejun Huang._ Arxiv 2025.
+
+43. [**Training Language Models with Memory Augmentation**](https://arxiv.org/abs/2205.12674) _Zexuan Zhong, Tao Lei, Danqi Chen._ EMNLP 2022.
+
+44. [**Episodic Memory in Lifelong Language Learning**](https://proceedings.neurips.cc/paper_files/paper/2019/file/f8d2e80c1458ea2501f98a2cafadb397-Paper.pdf) _Cyprien de Masson d'Autume, Sebastian Ruder, Lingpeng Kong, Dani Yogatama._ NeurIPS 2019.
+
+45. [**Prompted LLMs as Chatbot Modules for Long Open-domain Conversation**](https://aclanthology.org/2023.findings-acl.277/) _Gibbeum Lee, Volker Hartmann, Jongho Park, Dimitris Papailiopoulos, Kangwook Lee._ ACL 2023. 
+
+46. [**Hello Again! LLM-powered Personalized Agent for Long-term Dialogue**](https://aclanthology.org/2025.naacl-long.272.pdf) _Hao Li, Chenghao Yang, An Zhang, Yang Deng, Xiang Wang, Tat-Seng Chua._ NAACL 2025. 
+
+47. [**MemInsight: Autonomous Memory Augmentation for LLM Agents**](https://arxiv.org/html/2503.21760v1) _Rana Salama, Jason Cai, Michelle Yuan, Anna Currey, Monica Sunkara, Yi Zhang, Yassine Benajiba._ Arxiv 2025.
+
+48. [**Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation**](https://arxiv.org/abs/2403.14952) _Zhenrui Yue, Huimin Zeng, Yimeng Lu, Lanyu Shang, Yang Zhang, Dong Wang._  NAACL 2024.
+
+49. [**Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning**](https://arxiv.org/abs/2210.04242) _Yi Cheng, Wenge Liu, Wenjie Li, Jiashuo Wang, Ruihui Zhao, Bang Liu, Xiaodan Liang, Yefeng Zheng._ EMNLP 2022.
+
+50. [**MemoChat: Tuning LLMs to Use Memos for Consistent Long-Range Open-Domain Conversation**](https://arxiv.org/abs/2308.08239) _Junru Lu, Siyu An, Mingbao Lin, Gabriele Pergola, Yulan He, Di Yin, Xing Sun, Yunsheng Wu._ Arxiv 2023.
+
+51. [**Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation**](https://aclanthology.org/2022.naacl-main.426/) _Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-Rong Wen._ 2022 NAACL. 
+
+52. [**Learning Retrieval Augmentation for Personalized Dialogue Generation**](https://aclanthology.org/2023.emnlp-main.154/) _Qiushi Huang, Shuai Fu, Xubo Liu, Wenwu Wang, Tom Ko, Yu Zhang, Lilian Tang._ EMNLP 2023. 
+
+53. [**Interpersonal Memory Matters: A New Task for Proactive Dialogue Utilizing Conversational History**](https://arxiv.org/abs/2503.05150) _Bowen Wu, Wenqing Wang, Haoran Li, Ying Li, Jingsong Yu, Baoxun Wang._ Arxiv 2025. 
+
+54. [**Learning to Reason and Memorize with Self-Notes**](https://arxiv.org/abs/2305.00833) _Jack Lanchantin, Shubham Toshniwal, Jason Weston, Arthur Szlam, Sainbayar Sukhbaatar._ NeurIPS 2023. 
+
+55. [**Echo: A Large Language Model with Temporal Episodic Memory**](https://arxiv.org/abs/2502.16090) _WenTao Liu, Ruohua Zhang, Aimin Zhou, Feng Gao, JiaLi Liu._ Arxiv 2025.
+
+56. [**RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation**](https://aclanthology.org/2023.acl-long.468/) _Shuai Liu, Hyundong Cho, Marjorie Freedman, Xuezhe Ma, Jonathan May._ ACL 2023.
+
+57. [**Enhancing Personalized Dialogue Generation with Contrastive Latent Variables: Combining Sparse and Dense Persona**](https://aclanthology.org/2023.acl-long.299/) _Yihong Tang, Bo Wang, Miao Fang, Dongming Zhao, Kun Huang, Ruifang He, Yuexian Hou._ ACL 2023.
+
+58. [**Memory Layers at Scale**](https://arxiv.org/abs/2412.09764) _Vincent-Pierre Berges, Barlas Oğuz, Daniel Haziza, Wen-tau Yih, Luke Zettlemoyer, Gargi Ghosh._ Arxiv 2024.
+
+59. [**Leveraging Similar Users for Personalized Language Modeling with Limited Data**](https://aclanthology.org/2022.acl-long.122/) _Charles Welch, Chenxi Gu, Jonathan K. Kummerfeld, Veronica Perez-Rosas, Rada Mihalcea._ ACL 2022.
+
+60. [**There Are a Thousand Hamlets in a Thousand People’s Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory**](https://aclanthology.org/2022.acl-long.270/) _Tingchen Fu, Xueliang Zhao, Chongyang Tao, Ji-Rong Wen, Rui Yan._ ACL 2022.
+
+61. [**PerKGQA: Question Answering over Personalized Knowledge Graphs**](https://aclanthology.org/2022.findings-naacl.19/) _Ritam Dutt, Kasturi Bhattacharjee, Rashmi Gangadharaiah, Dan Roth, Carolyn Rose._ NAACL 2022.
+
+62. [**Transformer-based World Models Are Happy With 100k Interactions**](https://arxiv.org/abs/2303.07109) _Jan Robine, Marc Höftmann, Tobias Uelwer, Stefan Harmeling._ ICLR 2023.
+
+63. [**IterCQR: Iterative Conversational Query Reformulation with Retrieval Guidance**](https://aclanthology.org/2024.naacl-long.449/) _Yunah Jang, Kang-il Lee, Hyunkyung Bae, Hwanhee Lee, Kyomin Jung._ NAACL 2024.
+
+64. [**Towards Lifelong Dialogue Agents via Timeline-based Memory Management**](https://aclanthology.org/2025.naacl-long.435/) _Kai Tzu-iunn Ong, Namyoung Kim, Minju Gwak, Hyungjoo Chae, Taeyoon Kwon, Yohan Jo, Seung-won Hwang, Dongha Lee, Jinyoung Yeo._ NAACL 2025.
+
+65. [**Improving Factuality with Explicit Working Memory**](https://arxiv.org/abs/2412.18069) _Mingda Chen, Yang Li, Karthik Padthe, Rulin Shao, Alicia Sun, Luke Zettlemoyer, Gargi Ghosh, Wen-tau Yih._ Arxiv 2025.
+
+66. [**Ever-Evolving Memory by Blending and Refining the Past**](https://arxiv.org/abs/2403.04787) _Seo Hyun Kim, Keummin Ka, Yohan Jo, Seung-won Hwang, Dongha Lee, Jinyoung Yeo._ Arxiv 2024.
+
+67. [**Memorization Over Reasoning? Exposing and Mitigating Verbatim Memorization in Large Language Models' Character Understanding Evaluation**](https://arxiv.org/abs/2412.14368) _Yuxuan Jiang, Francis Ferraro._ Arxiv 2025.
+
+68. [**Self-Memory Alignment: Mitigating Factual Hallucinations with Generalized Improvement**](https://arxiv.org/abs/2502.19127) _Siyuan Zhang, Yichi Zhang, Yinpeng Dong, Hang Su._ Arxiv 2025.
+
+69. [**Needle in the Haystack for Memory Based Large Language Models**](https://icml.cc/virtual/2024/36123) _Elliot Nelson, Georgios Kollias, Payel Das, Subhajit Chaudhury, Soham Dan._ ICLR 2025.
+
+
+
 #### 2.2 Long Context Memory
 
 1. [**Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks**](https://aclanthology.org/P15-1150/) _Kai Sheng Tai, Richard Socher, Christopher D. Manning._ ACL 2015.
@@ -326,7 +392,27 @@ If you find our repository and survey useful for your research, please consider 
 
 16. [**Stable Hadamard Memory: Revitalizing Memory-Augmented Agents for Reinforcement Learning**](https://arxiv.org/abs/2410.10132) _Hung Le, Dung Nguyen, Kien Do, Sunil Gupta, Svetha Venkatesh._ ICLR 2025.
 
-17. [**Moviechat+: Question-aware sparse memory for long video question answering**](https://arxiv.org/abs/2404.17176) Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang. \_ Arxiv 2024.
+17. [**Moviechat+: Question-aware sparse memory for long video question answering**](https://arxiv.org/abs/2404.17176) _Enxin Song, Wenhao Chai, Tian Ye, Jenq-Neng Hwang, Xi Li, Gaoang Wang._ Arxiv 2024.
+
+18. [**A Simple LLM Framework for Long-Range Video Question-Answering**](https://aclanthology.org/2024.emnlp-main.1209/) _Ce Zhang, Taixi Lu, Md Mohaiminul Islam, Ziyang Wang, Shoubin Yu, Mohit Bansal, Gedas Bertasius._ EMNLP 2024.
+
+19. [****]() _._ 
+
+18. [****]() _._ 
+
+18. [****]() _._ 
+
+18. [****]() _._ 
+
+18. [****]() _._ 
+
+18. [****]() _._ 
+
+18. [****]() _._ 
+
+
+
+
 
 ## 📊 Datasets
 
