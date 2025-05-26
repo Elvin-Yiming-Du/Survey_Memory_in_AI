@@ -400,55 +400,106 @@ If you find our repository and survey useful for your research, please consider 
 
 3. [**Memory-assisted prompt editing to improve GPT-3 after deployment**](https://aclanthology.org/2022.emnlp-main.183/) _Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang._ EMNLP 2022.
 
-4. [**Training Language Models with Memory Augmentation**](https://aclanthology.org/2022.emnlp-main.382.pdf) _Zexuan Zhong, Tao Lei, Danqi Chen._ EMNLP 2022.
+4. [**Mass-Editing Memory with Attention in Transformers: A cross-lingual exploration of knowledge**](https://aclanthology.org/2024.findings-acl.347/) _Daniel Tamayo, Aitor Gonzalez-Agirre, Javier Hernando, Marta Villegas._ ACL 2024.
 
-5. [**Efficient Dialogue State Tracking by Selectively Overwriting Memory**](https://aclanthology.org/2020.acl-main.53/) _Sungdong Kim, Sohee Yang, Gyuwan Kim, Sang-Woo Lee._ ACL 2020.
+5. [**DSI++: Updating Transformer Memory with New Documents**](https://aclanthology.org/2023.emnlp-main.510/) _Sanket Vaibhav Mehta, Jai Gupta, Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Jinfeng Rao, Marc Najork, Emma Strubell, Donald Metzler._ EMNLP 2023.
 
-6. [**Mass-Editing Memory with Attention in Transformers: A cross-lingual exploration of knowledge**](https://aclanthology.org/2024.findings-acl.347/) _Daniel Tamayo, Aitor Gonzalez-Agirre, Javier Hernando, Marta Villegas._ ACL 2024.
+6. [**Memory3: Language Modeling with Explicit Memory**](https://arxiv.org/abs/2407.01178) _Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, Shichao Song, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong, Linpeng Tang, Weinan E._ Arxiv 2024.
 
-7. [**DSI++: Updating Transformer Memory with New Documents**](https://aclanthology.org/2023.emnlp-main.510/) _Sanket Vaibhav Mehta, Jai Gupta, Yi Tay, Mostafa Dehghani, Vinh Q. Tran, Jinfeng Rao, Marc Najork, Emma Strubell, Donald Metzler._ EMNLP 2023.
+7. [**Improving Task-free Continual Learning by Distributionally Robust Memory Evolution**](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf) _Zhenyi Wang, Li Shen, Le Fang, Qiuling Suo, Tiehang Duan, Mingchen Gao._ ICML 2022.
 
-8. [**Memory3: Language Modeling with Explicit Memory**](https://arxiv.org/abs/2407.01178) _Hongkang Yang, Zehao Lin, Wenjin Wang, Hao Wu, Zhiyu Li, Bo Tang, Wenqiang Wei, Jinbo Wang, Zeyun Tang, Shichao Song, Chenyang Xi, Yu Yu, Kai Chen, Feiyu Xiong, Linpeng Tang, Weinan E._ Arxiv 2024.
+8. [**A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm**](https://neurips.cc/virtual/2023/poster/72249) _Haizhou Shi, Hao Wang._ NeurIPS 2023.
 
-9. [**Information-theoretic Online Memory Selection for Continual Learning**](https://arxiv.org/abs/2204.04763) _Shengyang Sun, Daniele Calandriello, Huiyi Hu, Ang Li, Michalis Titsias._ ICLR 2022.
+9. [**AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models**](https://arxiv.org/abs/2410.02355) _Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Shi Jie, Xiang Wang, Xiangnan He, Tat-seng Chua_ ICLR 2025.
 
-10. [**Improving Task-free Continual Learning by Distributionally Robust Memory Evolution**](https://proceedings.mlr.press/v162/wang22v/wang22v.pdf) _Zhenyi Wang, Li Shen, Le Fang, Qiuling Suo, Tiehang Duan, Mingchen Gao._ ICML 2022.
+10. [**Locating and Editing Factual Associations in GPT**](https://proceedings.neurips.cc/paper_files/paper/2022/file/6f1d43d5a82a37e89b0665b33bf3a182-Paper-Conference.pdf) _Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov_ NeurIPS 2023.
 
-11. [**A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm**](https://neurips.cc/virtual/2023/poster/72249) _Haizhou Shi, Hao Wang._ NeurIPS 2023.
+11. [**WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**](https://arxiv.org/abs/2405.14768) _Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen_ NeurIPS 2024.
 
-12. [**Deciphering the Interplay of Parametric and Non-parametric Memory in Retrieval-augmented Language Models**](https://aclanthology.org/2024.emnlp-main.943.pdf) _Mehrdad Farahani, Richard Johansson._ EMNLP 2024.
+12. [**Can We Edit Factual Knowledge by In-Context Learning?**](https://aclanthology.org/2023.emnlp-main.296.pdf) _Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang_ EMNLP 2023.
 
-13. [**Sparse Distributed Memory is a Continual Learner**](https://arxiv.org/abs/2303.11934) _Brenton Wiernik, Xander Davies, Deepak Singh, Dmitri Krotov, Gabriel Kreiman._ ICLR 2023.
+13. [**Memory Replay with Data Compression for Continual Learning**](https://arxiv.org/abs/2202.06592) _Liyuan Wang, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu_ Arxiv 2022.
 
-14. [**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**](https://aclanthology.org/2022.acl-long.44/) _Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, Yinhe Zheng, Dongkyu Lee, Yiping Song, Jian Sun, Nevin L. Zhang._ ACL 2022.
+14. [**MEMORYLLM: Towards Self-Updatable Large Language Models**](https://arxiv.org/abs/2402.04624) _Yu Wang, Yifan Gao, Xiusi Chen, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley_ Arxiv 2024.
 
-15. [**Content Addressable Memory Without Catastrophic Forgetting by Heteroassociation with a Fixed Scaffold**](https://proceedings.mlr.press/v162/sharma22b/sharma22b.pdf) _Sugandha Sharma, Sarthak Chandra, Ila R. Fiete._ ICML 2022.
+15. [**Overcoming catastrophic forgetting in neural networks**](https://www.pnas.org/doi/abs/10.1073/pnas.1611835114) _James Kirkpatrick, Razvan Pascanu, Neil Rabinowitz, Joel Veness, Guillaume Desjardins, Andrei A. Rusu, Kieran Milan, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath, Dharshan Kumaran, Raia Hadsell_ PNAS 2017.
 
-16. [**Leitner-Guided Memory Replay for Cross-lingual Continual Learning**](https://aclanthology.org/2024.naacl-long.432/) _Meryem M'hamdi, Jonathan May._ NAACL 2024.
+16. [**Unlearn What You Want to Forget: Efficient Unlearning for LLMs**]( https://aclanthology.org/2023.emnlp-main.738/) _Jiaao Chen, Diyi Yang_ EMNLP 2023.
 
-17. [**Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning**](https://proceedings.neurips.cc/paper_files/paper/2022/file/3013680bf2d072b5f3851aec70b39a59-Paper-Conference.pdf) _Yejia Liu, Wang Zhu, Shaolei Ren._ NeurIPS 2022.
+17. [**A Comprehensive Survey of Continual Learning: Theory, Method and Application**]( https://ieeexplore.ieee.org/abstract/document/10444954) _Liyuan Wang , Xingxing Zhang , Hang Su , Jun Zhu_ TPAMI 2024.
 
-18. [**Transformer as a Hippocampal Memory Consolidation Model Based on NMDAR-Inspired Nonlinearity**](https://papers.nips.cc/paper_files/paper/2023/hash/2f1eb4c897e63870eee9a0a0f7a10332-Abstract-Conference.html) _Dong Kyum Kim, Jea Kwon, Meeyoung Cha, C. Lee._ NeurIPS 2023.
+18. [**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**]( https://openreview.net/forum?id=xlr6AUDuJz) _Nathaniel Li, Alexander Pan, Anjali Gopal, Summer Yue, Daniel Berrios, Alice Gatti, Justin D. Li, Ann-Kathrin Dombrowski, Shashwat Goel, Gabriel Mukobi, Nathan Helm-Burger, Rassin Lababidi, Lennart Justen, Andrew Bo Liu, Michael Chen, Isabelle Barrass, Oliver Zhang, Xiaoyuan Zhu, Rishub Tamirisa, Bhrugu Bharathi, Ariel Herbert-Voss, Cort B Breuer, Andy Zou, Mantas Mazeika, Zifan Wang, Palash Oswal, Weiran Lin, Adam Alfred Hunt, Justin Tienken-Harder, Kevin Y. Shih, Kemper Talley, John Guan, Ian Steneker, David Campbell, Brad Jokubaitis, Steven Basart, Stephen Fitz, Ponnurangam Kumaraguru, Kallol Krishna Karmakar, Uday Tupakula, Vijay Varadharajan, Yan Shoshitaishvili, Jimmy Ba, Kevin M. Esvelt, Alexandr Wang, Dan Hendrycks_ ICML 2024.
 
-19. [**Mechanisms of Memory Updating: State Dependency vs. Reconsolidation**](https://journalofcognition.org/articles/10.5334/joc.198) _Christopher Kiley, Colleen M. Parks._ Arxiv 2022.
+19. [**TOFU: A Task of Fictitious Unlearning for LLMs**]( https://openreview.net/forum?id=B41hNBoWLo#discussion) _Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary Chase Lipton, J Zico Kolter_ COLM 2024.
 
-20. [**Think Before You Act: Decision Transformers with Working Memory**](https://arxiv.org/abs/2305.16338) _Jikun Kang, Romain Laroche, Xingdi Yuan, Adam Trischler, Xue Liu, Jie Fu._ Arxiv 2023.
+20. [**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions**](https://aclanthology.org/2023.emnlp-main.971/) _Zexuan Zhong, Zhengxuan Wu, Christopher Manning, Christopher Potts, Danqi Chen_ EMNLP 2023.
 
-21. [**Improving Factuality with Explicit Working Memory**](https://arxiv.org/abs/2412.18069) _Mingda Chen, Yang Li, Karthik Padthe, Rulin Shao, Alicia Sun, Luke Zettlemoyer, Gargi Ghosh, Wen-tau Yih._ Arxiv 2024.
+21. [**Editing Factual Knowledge in Language Models**](https://aclanthology.org/2021.emnlp-main.522/) _Nicola De Cao, Wilker Aziz, Ivan Titov_ EMNLP 2021.
 
-22. [**AlphaEdit: Null-Space Constrained Knowledge Editing for Language Models**](https://arxiv.org/abs/2410.02355) _Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Shi Jie, Xiang Wang, Xiangnan He, Tat-seng Chua_ ICLR 2025.
+22. [**Fast Model Editing at Scale**]( https://openreview.net/forum?id=0DcZxeWfOPt) _Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D Manning_ ICLR 2022.
 
-23. [**Locating and Editing Factual Associations in GPT**](https://proceedings.neurips.cc/paper_files/paper/2022/file/6f1d43d5a82a37e89b0665b33bf3a182-Paper-Conference.pdf) _Kevin Meng, David Bau, Alex Andonian, Yonatan Belinkov_ NeurIPS 2023.
+23. [**Towards Scalable Multi-domain Conversational Agents: The Schema-Guided Dialogue Dataset**](https://ojs.aaai.org/index.php/AAAI/article/view/6394) _Abhinav Rastogi, Xiaoxue Zang, Srinivas Sunkara, Raghav Gupta, Pranav Khaitan_ AAAI 2020.
 
-24. [**WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**](https://arxiv.org/abs/2405.14768) _Peng Wang, Zexi Li, Ningyu Zhang, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen_ NeurIPS 2024.
+24. [**Large Language Model Unlearning**](https://openreview.net/forum?id=wKe6jE065x) _Yuanshun Yao, Xiaojun Xu, Yang Liu_ NeurIPS SoLaR 2023.
 
-25. [**Can We Edit Factual Knowledge by In-Context Learning?**](https://aclanthology.org/2023.emnlp-main.296.pdf) _Ce Zheng, Lei Li, Qingxiu Dong, Yuxuan Fan, Zhiyong Wu, Jingjing Xu, Baobao Chang_ EMNLP 2023.
+25. [**Open Problems in Machine Unlearning for AI Safety**]( https://arxiv.org/abs/2501.04952) _Fazl Barez, Tingchen Fu, Ameya Prabhu, Stephen Casper, Amartya Sanyal, Adel Bibi, Aidan O'Gara, Robert Kirk, Ben Bucknall, Tim Fist, Luke Ong, Philip Torr, Kwok-Yan Lam, Robert Trager, David Krueger, Sören Mindermann, José Hernandez-Orallo, Mor Geva, Yarin Gal_ Arxiv 2025.
 
-26. [**Memory Replay with Data Compression for Continual Learning**](https://arxiv.org/abs/2202.06592) _Liyuan Wang, Xingxing Zhang, Kuo Yang, Longhui Yu, Chongxuan Li, Lanqing Hong, Shifeng Zhang, Zhenguo Li, Yi Zhong, Jun Zhu_ Arxiv 2022.
+26. [**In-Context Unlearning: Language Models as Few Shot Unlearners**](https://proceedings.mlr.press/v235/pawelczyk24a.html) _Martin Pawelczyk, Seth Neel, Himabindu Lakkaraju_ ICML2024.
 
-27. [**MEMORYLLM: Towards Self-Updatable Large Language Models**](https://arxiv.org/abs/2402.04624) _Yu Wang, Yifan Gao, Xiusi Chen, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley_ Arxiv 2024.
+27. [**Towards Safer Large Language Models through Machine Unlearning**]( https://aclanthology.org/2024.findings-acl.107/) _Zheyuan Liu, Guangyao Dou, Zhaoxuan Tan, Yijun Tian, Meng Jiang_ ACL 2024.
 
-28. [**PaLM-E: An Embodied Multimodal Language Model**](https://proceedings.mlr.press/v202/driess23a/driess23a.pdf) _Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence_ ICML 2023.
+28. [**MUSE: Machine Unlearning Six-Way Evaluation for Language Models**](https://openreview.net/forum?id=TArmA033BU) _Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao, Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang_ ICLR 2025.
+
+29. [**A Comprehensive Study of Knowledge Editing for Large Language Models**]( https://arxiv.org/abs/2401.01286) _Ningyu Zhang, Yunzhi Yao, Bozhong Tian, Peng Wang, Shumin Deng, Mengru Wang, Zekun Xi, Shengyu Mao, Jintian Zhang, Yuansheng Ni, Siyuan Cheng, Ziwen Xu, Xin Xu, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Lei Liang, Zhiqiang Zhang, Xiaowei Zhu, Jun Zhou, Huajun Chen_ Arxiv 2024.
+
+30. [**SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning**](https://aclanthology.org/2024.emnlp-main.245/) _Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James Diffenderfer, Bhavya Kailkhura, Sijia Liu_ EMNLP 2024.
+
+31. [**Large Language Model Unlearning via Embedding-Corrupted Prompts**](https://openreview.net/forum?id=e5icsXBD8Q) _Chris Yuhao Liu, Yaxuan Wang, Jeffrey Flanigan, Yang Liu_ NeurIPS 2024.
+
+32. [**DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models**](https://aclanthology.org/2023.emnlp-main.174/) _Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi Xiong_ EMNLP 2023.
+
+33. [**Calibrating Factual Knowledge in Pretrained Language Models**]( https://aclanthology.org/2022.findings-emnlp.438/) _Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li_ EMNLP 2022.
+
+34. [**On Memorization of Large Language Models in Logical Reasoning**](https://openreview.net/forum?id=5sQiK2qTGa) _Chulin Xie , Yangsibo Huang, Chiyuan Zhang, Da Yu, Xinyun Chen, Bill Yuchen Lin, Bo Li, Badih Ghazi, Ravi Kumar_ ICLR 2025.
+
+35. [**Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference**](https://openreview.net/forum?id=tYdR1lTWqh) _Jiabao Ji, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang_ NeurIPS 2024.
+
+36. [**INSPIRED: Toward Sociable Recommendation Dialog Systems**]( https://aclanthology.org/2020.emnlp-main.654/) _Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi, Zhou Yu_ EMNLP 2020.
+
+37. [**RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models**](https://openreview.net/forum?id=wOmtZ5FgMH#discussion) _Zhuoran Jin, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, Jiachun Li, Yubo Chen, Kang Liu, Jun Zhao_ NeurIPS 2024.
+
+38. [**Larimar: Large Language Models with Episodic Memory Control**](https://openreview.net/forum?id=t8mt4YrPsq) _Payel Das, Subhajit Chaudhury, Elliot Nelson, Igor Melnyk, Sarathkrishna Swaminathan, Sihui Dai, Aurelie Lozano, Georgios Kollias, Vijil Chenthamarakshan, Jiri Navratil, Soham Dan, Pin-Yu Chen_ ICML 2024.
+
+39. [**Spurious Forgetting in Continual Learning of Language Models**](https://openreview.net/forum?id=ScI7IlKGdI) _Junhao Zheng , Xidi Cai, Shengjie Qiu, Qianli Ma_ ICLR 2025.
+
+40. [**Precise Localization of Memories: A Fine-grained Neuron-level Knowledge Editing Technique for LLMs**]( https://openreview.net/forum?id=5xP1HDvpXI) _Haowen Pan, Xiaozhi Wang, Yixin Cao, Zenglin Shi, Xun Yang, Juanzi Li, Meng Wang_ ICLR 2025.
+
+41. [**TaSL: Continual Dialog State Tracking via Task Skill Localization and Consolidation**]( https://aclanthology.org/2024.acl-long.69/) _Yujie Feng, Xu Chu, Yongxin Xu, Guangyuan Shi, Bo Liu, Xiao-Ming Wu_ ACL 2024
+
+42. [**To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models**](https://aclanthology.org/2024.findings-emnlp.82/) _Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang_ EMNLP 2024.
+
+43. [**Mitigating Catastrophic Forgetting in Online Continual Learning by Modeling Previous Task Interrelations via Pareto Optimization**](https://openreview.net/forum?id=olbTrkWo1D) _Yichen Wu , Hong Wang, Peilin Zhao, Yefeng Zheng, Ying Wei, Long-Kai Huang_ ICML 2024.
+
+44. [**LLM Unlearning via Loss Adjustment with Only Forget Data**](https://openreview.net/forum?id=6ESRicalFE) _Yaxuan Wang, Jiaheng Wei, Chris Yuhao Liu, Jinlong Pang, Quan Liu, Ankit Shah, Yujia Bao, Yang Liu, Wei Wei_ ICLR 2025.
+
+45. [**Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection**](https://aclanthology.org/2022.coling-1.189/) _Minqian Liu, Shiyu Chang, Lifu Huang_ COLING 2022.
+
+46. [**WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models**](https://openreview.net/forum?id=VzOgnDJMgh) _Jinghan Jia, Jiancheng Liu, Yihua Zhang, Parikshit Ram, Nathalie Baracaldo, Sijia Liu_ NeurIPS 2024.
+
+47. [**Lifelong Learning of Large Language Model based Agents: A Roadmap**](https://arxiv.org/abs/2501.07278) _Junhao Zheng, Chengming Shi, Xidi Cai, Qiuke Li, Duzhen Zhang, Chenxing Li, Dong Yu, Qianli Ma_ Arxiv 2025.
+
+48. [**Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis**](https://aclanthology.org/2024.findings-emnlp.252/) _Xuanwen Ding, Jie Zhou, Liang Dou, Qin Chen, Yuanbin Wu, Arlene Chen, Liang He_ EMNLP 2024.
+
+49. [**DAFNet: Dynamic Auxiliary Fusion for Sequential Model Editing in Large Language Models**](https://aclanthology.org/2024.findings-acl.92/) _Taolin Zhang, Qizhou Chen, Dongyang Li, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue’, Jun Huang_ ACL 2024.
+
+50. [**Sequential memory improves sample and memory efficiency in Episodic Control**](https://arxiv.org/abs/2112.14734) _Ismael T. Freire, Adrián F. Amil, Paul F.M.J. Verschure_ Arxiv 2021.
+
+51. [**Towards LifeSpan Cognitive Systems**]( https://openreview.net/forum?id=LZ9FmeFeLV) _Yu Wang, Chi Han, Tongtong Wu, Xiaoxin He, Wangchunshu Zhou, Nafis Sadeq, Xiusi Chen, Zexue He, Wei Wang, Gholamreza Haffari, Heng Ji, Julian McAuley_ TMLR 2025.
+
+52. [**Self-Updatable Large Language Models by Integrating Context into Model Parameters**](https://openreview.net/forum?id=aCPFCDL9QY) _Yu Wang, Xinshuang Liu, Xiusi Chen, Sean O'Brien, Junda Wu, Julian McAuley_ ICLR 2025.
+
+53. [**If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs**](https://arxiv.org/abs/2503.23514) _Siqi Fan, Xiusheng Huang, Yiqun Yao, Xuezhi Fang, Kang Liu, Peng Han, Shuo Shang, Aixin Sun, Yequan Wang_ Arxiv 2025.
+
 
 #### 2.4 Multi-source Memory
 
