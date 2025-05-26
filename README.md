@@ -381,6 +381,10 @@ If you find our repository and survey useful for your research, please consider 
 | [**L-Eval**](https://github.com/OpenLMLab/LEval)                                      | text              | compression, retrieval | Rouge-L, F1, GPT4                     | 20-subtask benchmark for diverse long-context language model evaluation      | 2023     |
 | [**LongBench**](https://github.com/THUDM/LongBench/tree/main/LongBench)               | text              | compression, retrieval | F1, Rouge-L, Accuracy, EM, Edit Sim   | 14 English, 5 Chinese, 2 code tasks for long-context evaluation              | 2023     |
 | [**LongBench v2**](https://github.com/THUDM/LongBench/)                               | text + table + KG | compression, retrieval | Acc                                   | Longer, more challenging tasks with consistent multi-choice format           | 2024     |
+| [**SWE-bench**](https://www.swebench.com/)                               | text | compression, retrieval | Resolution rate (%Resolved)                                   |  2,294 task instances from 12 popular python repositories from GitHub           | 2023     |
+| [**SWE-bench Multimodal**](https://www.swebench.com/multimodal.html/)                               | text + image | compression, retrieval | Resolution rate (%Resolved), Inference cost (Avg. $ Cost)                                  |  Extending the original benchmark with image modal with 517 task instances           | 2024     |
+| [**$\infty$Bench**](https://github.com/OpenBMB/InfiniteBench/)                               | text | compression, retrieval | F1, Acc, ROUGE-L-Sum                                  |  12 sub-tasks specially designed for evaluating extreme long context language models           | 2024     |
+| [**LooGLE**](https://github.com/bigai-nlco/LooGLE/)                               | text | compression, retrieval | Bleu-1, Bleu-4, Rouge-1, Rouge-4, Rouge-L, Meteor score, Bert score, GPT4 score                                  |  7 major tasks specially designed for evaluating extreme long context language models           | 2023     |
 
 ### Paramatric Memory Modification
 
