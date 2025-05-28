@@ -67,6 +67,9 @@ If you find our repository and survey useful for your research, please consider 
     - [Contributors](#contributors)
     - [Star History](#star-history)
 
+## 📢 News
+[Version 2](https://arxiv.org/abs/2401.06853) of our work is now available.
+
 ### Memory Taxonomy
 
 ![Memory Taxonomy](./framework.png)
@@ -75,7 +78,7 @@ If you find our repository and survey useful for your research, please consider 
 
 ![Memory Operations](./operation_to_topics.png)
 
-## 📢 News
+
 
 ### Week Papers
 
@@ -577,7 +580,7 @@ If you find our repository and survey useful for your research, please consider 
 
 37. [**Context-faithful Prompting for Large Language Models**](https://aclanthology.org/2023.findings-emnlp.968/) _Wenxuan Zhou, Sheng Zhang, Hoifung Poon, Muhao Chen._ EMNLP 2023.
 
-37. [**WORLDMEM: Long-term Consistent World Simulation with Memory**](https://arxiv.org/abs/2504.12369) _Zeqi Xiao, Yushi Lan, Yifan Zhou, Wenqi Ouyang, Shuai Yang, Yanhong Zeng, Xingang Pan._ Arxiv 2025.
+38. [**WORLDMEM: Long-term Consistent World Simulation with Memory**](https://arxiv.org/abs/2504.12369) _Zeqi Xiao, Yushi Lan, Yifan Zhou, Wenqi Ouyang, Shuai Yang, Yanhong Zeng, Xingang Pan._ Arxiv 2025.
 
 
 
