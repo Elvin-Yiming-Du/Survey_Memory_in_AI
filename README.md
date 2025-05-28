@@ -68,7 +68,7 @@ If you find our repository and survey useful for your research, please consider 
     - [Star History](#star-history)
 
 ## 📢 News
-[Version 2](https://arxiv.org/abs/2401.06853) of our work is now available.
+[Version 2](https://arxiv.org/abs/2505.00675) of our work is now available.
 
 ### Memory Taxonomy
 
