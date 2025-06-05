@@ -39,9 +39,9 @@ If you find our repository and survey useful for your research, please consider 
 
 - [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](#rethinking-memory-in-ai-taxonomy-operations-topics-and-future-directions)
   - [Contents](#contents)
+  - [📢 News](#-news)
     - [Memory Taxonomy](#memory-taxonomy)
     - [Memory Operations](#memory-operations)
-  - [📢 News](#-news)
     - [Week Papers](#week-papers)
   - [📜 Papers](#-papers)
     - [1. Survey Papers](#1-survey-papers)
@@ -61,7 +61,8 @@ If you find our repository and survey useful for your research, please consider 
     - [Framework Level](#framework-level)
     - [Application-Layer Level](#application-layer-level)
     - [Product Level](#product-level)
-  - [🆚 Human vs. AI in Memory](#-human_vs._ai_in_memory)
+  - [🆚 Human vs. AI in Memory](#-human-vs-ai-in-memory)
+    - [](#)
   - [🌞 Future Directions](#-future-directions)
   - [Acknowledgements](#acknowledgements)
     - [Contributors](#contributors)
@@ -626,6 +627,7 @@ If you find our repository and survey useful for your research, please consider 
 
 | **Dataset**                                                                           | **Modality**      | **Operations**         | **Metrics**                           | **Purpose**                                                                  | **Year** |
 | ------------------------------------------------------------------------------------- | ----------------- | ---------------------- | ------------------------------------- | ---------------------------------------------------------------------------- | -------- |
+| [**MMLongBench**](https://github.com/EdinburghNLP/MMLongBench)               | text + image     | compression, retrieval | SubEM, Accuracy, Rouge-L, Model-Based   | 5 categories and 16 datasets for vision-language long-context evaluation              | 2025     |
 | [**WikiText-103**](https://huggingface.co/datasets/Salesforce/wikitext)               | text              | compression            | PPL                                   | 100M-token Wikipedia corpus for long-context language modeling               | 2016     |
 | [**PG-19**](https://github.com/google-deepmind/pg19)                                  | text              | compression            | PPL                                   | Project Gutenberg books corpus for long-context language modeling            | 2019     |
 | [**LRA**](https://github.com/google-research/long-range-arena)                        | text + image      | compression, retrieval | Acc                                   | Benchmark with 6 tasks for evaluating efficient long-context language models | 2020     |
