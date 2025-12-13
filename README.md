@@ -463,7 +463,7 @@ If you find our repository and survey useful for your research, please consider 
 
 33. [**Calibrating Factual Knowledge in Pretrained Language Models**]( https://aclanthology.org/2022.findings-emnlp.438/) _Qingxiu Dong, Damai Dai, Yifan Song, Jingjing Xu, Zhifang Sui, Lei Li_ EMNLP 2022.
 
-34. [**On Memorization of Large Language Models in Logical Reasoning**](https://openreview.net/forum?id=5sQiK2qTGa) _Chulin Xie , Yangsibo Huang, Chiyuan Zhang, Da Yu, Xinyun Chen, Bill Yuchen Lin, Bo Li, Badih Ghazi, Ravi Kumar_ ICLR 2025.
+34. [**On Memorization of Large Language Models in Logical Reasoning**]([https://openreview.net/forum?id=5sQiK2qTGa](https://arxiv.org/abs/2410.23123)) _Chulin Xie , Yangsibo Huang, Chiyuan Zhang, Da Yu, Xinyun Chen, Bill Yuchen Lin, Bo Li, Badih Ghazi, Ravi Kumar_ arxiv 2025.
 
 35. [**Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference**](https://openreview.net/forum?id=tYdR1lTWqh) _Jiabao Ji, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang_ NeurIPS 2024.
 
