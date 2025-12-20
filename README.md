@@ -1,4 +1,4 @@
-# Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions
+# Memory Compass: Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions
 
 <div align="center">
  <p align="center">
