@@ -61,10 +61,8 @@ This repository introduce a comprehensive paper list, datasets, methods and tool
 
 ## 📢 News
 - 🚀 **Memory-T1 Released!**
-  We release [**Memory-T1**](https://arxiv.org/abs/2512.20092 ), a new RL method designed for **temporal reasoning and long-term memory** in large language models.  
+  [**Memory-T1**](https://arxiv.org/abs/2512.20092 ): we propose a new RL method designed for **temporal reasoning and long-term memory** in large language models.  
 Memory-T1 focuses on multi-session interactions and realistic temporal dependencies, enabling systematic evaluation of memory-aware agents.
-
-- 📦 **Dataset**: https://huggingface.co/datasets/ElvinDu518/Memory-T1
 - [Version 3](https://arxiv.org/abs/2505.00675) is availabel!
 - [Paper List](#-papers), [benchmarks](#-datasets) and [tools](#-tools) has been udpated.
 - [Version 2](https://arxiv.org/abs/2505.00675) of our work is now available.
