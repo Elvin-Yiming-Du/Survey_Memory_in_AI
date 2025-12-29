@@ -60,7 +60,7 @@ This repository introduce a comprehensive paper list, datasets, methods and tool
     - [Star History](#star-history)
 
 ## 📢 News
-- 🚀 **[Memory-T1](https://arxiv.org/abs/2512.20092 ) Released!**: we propose a new RL method designed for **temporal reasoning and long-term memory** in large language models.  
+- 🚀 **[Memory-T1](https://arxiv.org/abs/2512.20092 ) Released!** We propose a new RL method designed for **temporal reasoning and long-term memory** in large language models.  
 Memory-T1 focuses on multi-session interactions and realistic temporal dependencies, enabling systematic evaluation of memory-aware agents.
 - [Version 3](https://arxiv.org/abs/2505.00675) is availabel!
 - [Paper List](#-papers), [benchmarks](#-datasets) and [tools](#-tools) has been udpated.
