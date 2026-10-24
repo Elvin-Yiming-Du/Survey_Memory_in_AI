@@ -454,6 +454,7 @@ This repository introduce a comprehensive paper list, datasets, methods and tool
 - [**A New Formula for Sticker Retrieval: Reply with Stickers in Multi-Modal and Multi-Session Conversation**](https://ojs.aaai.org/index.php/AAAI/article/view/34720) _Bingbing Wang, Yiming Du, Bin Liang, Zhixin Bai, Min Yang, Baojun Wang, Kam-Fai Wong, Ruifeng Xu._ AAAI 2025.
 - [**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**](https://arxiv.org/abs/2504.21716) _Marc Glocker, Peter Hönig, Matthias Hirschmanner, Markus Vincze._ Arxiv 2025.
 - [**WORLDMEM: Long-term Consistent World Simulation with Memory**](https://arxiv.org/abs/2504.12369) _Zeqi Xiao, Yushi Lan, Yifan Zhou, Wenqi Ouyang, Shuai Yang, Yanhong Zeng, Xingang Pan._ Arxiv 2025.
+- [**ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation**](https://openreview.net/forum?id=CyUq9D99vE) _Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong._ NeurIPS 2025.
 
 ##### 2024
 
