@@ -442,6 +442,10 @@ This repository introduce a comprehensive paper list, datasets, methods and tool
 
 #### 2.4 Multi-source Memory
 
+##### 2026
+- [**OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**](https://arxiv.org/abs/2610.01762) _Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Qingyi Si, Dingyu Yao, Changlian Ma, Haoran Chen, Xinyu Chen, Yansong Shi, Junhao Zhou, Yifei Li, Jun Zhang, Chuanyu Qin, Chenxu Yang, Xinlei Yu, Kun Ouyang, Yuchen Shao, Qianshan Wei, Changhai Zhou, Jun Gao, Jiaqi Wang, Limin Wang._ Arxiv 2026.
+- [**JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**](https://arxiv.org/abs/2606.14777) _Dingyu Yao, Junhao Zhou, Chenxu Yang, Chuanyu Qin, Xiangyu Zeng, Yifei Li, Haowen Hou, Zheming Liang, Congcong Wang, Kaiwen Tuo, Jun Zhang, Yuhan Zhu, Yuhang Cao, Shenglong Ye, Shuai Xie, Shuhuan Gu, Haoyang Huang, Qingyi Si, Nan Duan, Jiaqi Wang._ Arxiv 2026.
+
 ##### 2025
 - [**Context as memory: Scene-consistent interactive long video generation with memory retrieval**](https://arxiv.org/abs/2506.03141) _Jiwen Yu, Jianhong Bai, Yiran Qin, Quande Liu, Xintao Wang, Pengfei Wan, Di Zhang, Xihui Liu._ Arxiv 2025.
 - [**Mirix: Multi-agent memory system for llm-based agents**](https://arxiv.org/abs/2507.07957) _Yu Wang, Xi Chen._ Arxiv 2025.
