@@ -103,6 +103,9 @@ This repository introduce a comprehensive paper list, datasets, methods and tool
 
 #### 2.1 Long Term Memory
 
+##### 2026
+- [**Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction**](https://arxiv.org/abs/2611.10439) _Yunzhe Wang, Mesut Erhan Unal, Sheng Zhang, Shabnam Ghadar, Peng Tang._ Arxiv 2026.
+
 ##### 2025
 - [**PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory**](https://www.arxiv.org/abs/2512.06688) _Bowen Jiang, Yuan Yuan, Maohao Shen, Zhuoqun Hao, Zhangchen Xu, Zichen Chen, Zijun Liu, Anirudh Ravi Vijjini, Jiaming He, and others._ Arxiv 2025.
 - [**O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents**](https://arxiv.org/abs/2511.13593) _Piaohong Wang, Motong Tian, Jiaxian Li, Yuan Liang, Yuqing Wang, Qianben Chen, Tiannan Wang, Zhicong Lu, Jiawei Ma, Yuchen Eleanor Jiang, Wangchunshu Zhou._ Arxiv 2025.
