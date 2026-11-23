@@ -674,6 +674,7 @@ This repository introduce a comprehensive paper list, datasets, methods and tool
 | [**Memobase**](https://www.memobase.io/)              | A user profile-based long-term memory system designed to provide personalized experiences in generative AI applications | User interactions / Personalized responses               | Implementing virtual assistants, educational tools, and personalized AI companions                 | Open            |
 | [**O-Mem**](https://github.com/OPPO-PersonalAI/O-Mem) | An omni-memory system enabling agents to self-evolve and maintain long-horizon consistency through recursive memory consolidation | Long-term interaction logs / Evolved memory state | Creating self-evolving personal AI assistants that adapt to user growth over time | Open |
 | [**MemOS**](https://arxiv.org/abs/2505.22101) | An operating system-like architecture that manages memory hierarchy (working/short/long-term) to optimize Memory-Augmented Generation | Agent queries, Complex contexts / Hierarchical memory blocks | Managing complex memory resources for agents handling multi-step reasoning tasks | Open |
+| [**ClickHouse Loom**](https://github.com/ClickHouse/loom) | Self-hosted shared long-term memory service for AI agents, accessed through MCP, HTTP, and Python/TypeScript SDKs | Memory writes and queries / Stored memories and search results | Sharing project decisions and findings across agent sessions with namespace-scoped access | Open |
 
 ### Product Level
 
